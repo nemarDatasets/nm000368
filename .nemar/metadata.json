@@ -1,0 +1,204 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Jonathan Daume": {
+      "orcid": "0000-0002-6516-7288",
+      "affiliations": [
+        {
+          "name": "Department of Neurosurgery, Cedars-Sinai Medical Center"
+        },
+        {
+          "name": "Department of Neurology, Cedars-Sinai Medical Center"
+        },
+        {
+          "name": "Center for Neural Science and Medicine, Department of Biomedical Sciences, Cedars-Sinai Medical Center"
+        }
+      ]
+    },
+    "Jan Kaminski": {
+      "orcid": "0000-0002-8663-7314",
+      "affiliations": [
+        {
+          "name": "Department of Neurosurgery, Cedars-Sinai Medical Center"
+        },
+        {
+          "name": "Center of Excellence for Neural Plasticity and Brain Disorders: BRAINCITY, Nencki Institute of Experi-15 mental Biology, Polish Academy of Sciences"
+        }
+      ]
+    },
+    "Andrea G. P. Schjetnan": {},
+    "Yousef Salimpour": {
+      "orcid": "0000-0002-7546-004X",
+      "affiliations": [
+        {
+          "name": "Department of Neurosurgery, Johns Hopkins School of Medicine"
+        }
+      ]
+    },
+    "Umais Khan": {
+      "orcid": "0009-0005-5328-3977",
+      "affiliations": [
+        {
+          "name": "Department of Neurosurgery, Cedars-Sinai Medical Center"
+        }
+      ]
+    },
+    "Michael Kyzar": {
+      "orcid": "0009-0004-4392-9933",
+      "affiliations": [
+        {
+          "name": "Department of Neurosurgery, Cedars-Sinai Medical Center"
+        }
+      ]
+    },
+    "Chrystal M. Reed": {
+      "orcid": "0000-0002-7157-3645",
+      "affiliations": [
+        {
+          "name": "Department of Neurology, Cedars-Sinai Medical Center"
+        }
+      ]
+    },
+    "William S. Anderson": {
+      "orcid": "0000-0003-0958-050X",
+      "affiliations": [
+        {
+          "name": "Department of Neurosurgery, Johns Hopkins School of Medicine"
+        }
+      ]
+    },
+    "Taufik A. Valiante": {
+      "orcid": "0000-0002-3443-3790",
+      "affiliations": [
+        {
+          "name": "Krembil Research Institute and Division of Neurosurgery, University Health Network (UHN), University of Toronto"
+        }
+      ]
+    },
+    "Adam N. Mamelak": {
+      "orcid": "0000-0002-4245-6431",
+      "affiliations": [
+        {
+          "name": "Department of Neurosurgery, Cedars-Sinai Medical Center"
+        }
+      ]
+    },
+    "Ueli Rutishauser": {
+      "orcid": "0000-0002-9207-7069",
+      "affiliations": [
+        {
+          "name": "Department of Neurosurgery, Cedars-Sinai Medical Center"
+        },
+        {
+          "name": "Department of Neurology, Cedars-Sinai Medical Center"
+        },
+        {
+          "name": "Center for Neural Science and Medicine, Department of Biomedical Sciences, Cedars-Sinai Medical Center"
+        },
+        {
+          "name": "Division of Biology and Biological Engineering, California Institute of Technology"
+        }
+      ]
+    }
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.48324/dandi.000673/0.250122.0110",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.1038/s41586-024-07309-z",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000368",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000368",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "German National Academy of Sciences Leopoldina Postdoctoral fellowship (J.D.)"
+    },
+    {
+      "funder_name": "Center for Neural Science and Medicine at Cedars-Sinai Postdoctoral fellowship (J.D.)"
+    },
+    {
+      "funder_name": "BRAIN Initiative / National Institute of Neurological Disorders and Stroke",
+      "award_number": "U01NS103792"
+    },
+    {
+      "funder_name": "BRAIN Initiative / National Institute of Neurological Disorders and Stroke",
+      "award_number": "U01NS117839"
+    },
+    {
+      "funder_name": "National Science Foundation",
+      "award_number": "BCS-2219800"
+    },
+    {
+      "funder_name": "German National Academy of Sciences Leopoldina",
+      "award_title": "Postdoctoral fellowship (J.D.)"
+    },
+    {
+      "funder_name": "Center for Neural Science and Medicine at Cedars-Sinai",
+      "award_title": "Postdoctoral fellowship (J.D.)"
+    }
+  ],
+  "title": "Sternberg working memory: human microwire LFP from medial temporal and medial frontal lobe (Daume et al. 2024, DANDI 000673)",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "4.10 GB (87 files)"
+  ],
+  "formats": [
+    ".eeg",
+    ".json",
+    ".tsv",
+    ".vhdr",
+    ".vmrk",
+    ".yaml"
+  ],
+  "description": "Microwire local field potentials (LFP) recorded from Behnke-Fried hybrid depth electrodes in 35 patients with drug-resistant epilepsy during a Sternberg working-memory task with pictures (load 1 or 3). Recording sites include the hippocampus, amygdala, dorsal anterior cingulate cortex, pre-supplementary motor area and ventromedial prefrontal cortex. This is an iEEG-BIDS representation of the NWB data released on DANDI (000673), with trial, TTL and picture-presentation events, and signal values left unchanged.",
+  "methods_description": "LFPs were recorded at 30-32 kHz from microwire bundles at three clinical sites, with spikes removed by interpolation, low-pass filtered at 175 Hz and downsampled to 400 Hz by the original authors. The conversion wrote the 400 Hz series to BrainVision float32 microvolts without filtering, resampling, re-referencing, cropping or channel removal. Events cover trials, TTL markers and picture presentations.",
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "local field potential"
+    },
+    {
+      "term": "working memory"
+    },
+    {
+      "term": "microwire electrodes"
+    },
+    {
+      "term": "phase-amplitude coupling"
+    },
+    {
+      "term": "Hippocampus",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D006624"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    }
+  ],
+  "source_hash": "4d2b51d03b65eca74379257f5f16c8e303767d25e0cb34bf15cc86b57242ae07"
+}
