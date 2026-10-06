@@ -1,0 +1,36 @@
+participant_id	age	sex	species	recording_institution	dandi_subject_id	lab_patient_code	same_participant_in
+sub-1	43	F	Homo sapiens	Cedars-Sinai Medical Center	1	P55CS	DANDI 000623 (NEMAR nm000357) sub-CS55
+sub-2	48	M	Homo sapiens	Cedars-Sinai Medical Center	2	P56CS	DANDI 000623 (NEMAR nm000357) sub-CS56
+sub-3	32	F	Homo sapiens	Cedars-Sinai Medical Center	3	P58CS	DANDI 000623 (NEMAR nm000357) sub-CS58
+sub-4	67	M	Homo sapiens	Cedars-Sinai Medical Center	4	P60CS	DANDI 000623 (NEMAR nm000357) sub-CS60
+sub-5	52	F	Homo sapiens	Cedars-Sinai Medical Center	5	P61CS	DANDI 000940 (NEMAR nm000367) sub-2
+sub-6	25	F	Homo sapiens	Cedars-Sinai Medical Center	6	P62CS	DANDI 000940 (NEMAR nm000367) sub-8; DANDI 000623 (NEMAR nm000357) sub-CS62
+sub-7	63	F	Homo sapiens	Cedars-Sinai Medical Center	7	P64CS	DANDI 000940 (NEMAR nm000367) sub-12
+sub-8	55	F	Homo sapiens	Cedars-Sinai Medical Center	8	P65CS	DANDI 000940 (NEMAR nm000367) sub-13
+sub-9	38	F	Homo sapiens	Cedars-Sinai Medical Center	9	P67CS	n/a
+sub-10	54	M	Homo sapiens	Cedars-Sinai Medical Center	10	P68CS	n/a
+sub-11	41	F	Homo sapiens	Cedars-Sinai Medical Center	11	P69CS	n/a
+sub-12	30	F	Homo sapiens	Cedars-Sinai Medical Center	12	P70CS	n/a
+sub-13	40	M	Homo sapiens	Cedars-Sinai Medical Center	13	P71CS	n/a
+sub-14	25	F	Homo sapiens	Cedars-Sinai Medical Center	14	P72CS	n/a
+sub-15	58	F	Homo sapiens	Cedars-Sinai Medical Center	15	P73CS	n/a
+sub-16	24	F	Homo sapiens	Cedars-Sinai Medical Center	16	P76CS	n/a
+sub-17	46	F	Homo sapiens	Cedars-Sinai Medical Center	17	P77CS	n/a
+sub-18	54	F	Homo sapiens	Cedars-Sinai Medical Center	18	P78CS	n/a
+sub-19	42	F	Homo sapiens	Cedars-Sinai Medical Center	19	P79CS	n/a
+sub-21	45	F	Homo sapiens	Cedars-Sinai Medical Center	21	P089TWH	n/a
+sub-22	20	M	Homo sapiens	Cedars-Sinai Medical Center	22	P090TWH	n/a
+sub-23	59	F	Homo sapiens	Cedars-Sinai Medical Center	23	P091TWH	n/a
+sub-24	23	M	Homo sapiens	Cedars-Sinai Medical Center	24	P093TWH	n/a
+sub-25	58	F	Homo sapiens	Cedars-Sinai Medical Center	25	P096TWH	n/a
+sub-26	25	F	Homo sapiens	Cedars-Sinai Medical Center	26	P101TWH	DANDI 000940 (NEMAR nm000367) sub-3
+sub-27	49	M	Homo sapiens	Cedars-Sinai Medical Center	27	P103TWH	DANDI 000940 (NEMAR nm000367) sub-4
+sub-28	26	M	Homo sapiens	Cedars-Sinai Medical Center	28	P106TWH	n/a
+sub-29	28	M	Homo sapiens	Cedars-Sinai Medical Center	29	P109TWH	DANDI 000940 (NEMAR nm000367) sub-5
+sub-30	38	M	Homo sapiens	Cedars-Sinai Medical Center	30	P110TWH	DANDI 000940 (NEMAR nm000367) sub-6
+sub-31	36	M	Homo sapiens	Cedars-Sinai Medical Center	31	P113TWH	DANDI 000940 (NEMAR nm000367) sub-9
+sub-32	28	M	Homo sapiens	Cedars-Sinai Medical Center	32	P116TWH	n/a
+sub-33	25	F	Homo sapiens	Cedars-Sinai Medical Center	33	P129TWH	n/a
+sub-34	62	M	Homo sapiens	Cedars-Sinai Medical Center	34	P1802JHU	n/a
+sub-35	45	M	Homo sapiens	Cedars-Sinai Medical Center	35	P1809JHU	n/a
+sub-36	27	F	Homo sapiens	Cedars-Sinai Medical Center	36	P1811JHU	n/a

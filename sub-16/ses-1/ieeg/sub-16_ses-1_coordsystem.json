@@ -1,0 +1,7 @@
+{
+  "iEEGCoordinateSystem": "Other",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "x, y, z columns of the NWB electrodes table as released by the data authors (one location per microwire bundle). Daume et al. (2024) localised electrodes with Freesurfer from pre-operative MRI and post-operative MRI or CT and plotted them 'on the CITI168 Atlas Brain in MNI152 coordinates for the sole purpose of visualization', noting that 'coordinates appearing in white matter or outside of the target area is due to usage of a template brain'. The NWB columns carry no space description, so a BIDS template label is not asserted.",
+  "iEEGCoordinateProcessingDescription": "Pre-operative MRI with post-operative MRI or CT, localisation with Freesurfer, template-space coordinates (CIT168 / MNI152) (Daume et al. 2024, Methods).",
+  "iEEGCoordinateProcessingReference": "https://doi.org/10.1038/s41586-024-07309-z"
+}

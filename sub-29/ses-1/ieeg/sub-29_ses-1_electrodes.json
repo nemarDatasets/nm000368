@@ -1,0 +1,12 @@
+{
+  "location": {
+    "Description": "Brain area of the microwire bundle as given in the NWB electrodes table (assigned by the data authors)."
+  },
+  "size": {
+    "Description": "Not documented per contact by the source (microwires are 40 µm diameter per the NWB device description).",
+    "Units": "mm^2"
+  },
+  "source_origChannel": {
+    "Description": "NWB electrodes table column origChannel."
+  }
+}

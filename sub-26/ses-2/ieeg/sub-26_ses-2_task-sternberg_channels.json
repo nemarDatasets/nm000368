@@ -1,0 +1,22 @@
+{
+  "type": {
+    "Description": "BIDS has no dedicated microwire type; SEEG (depth electrode) is used for these microwire LFP channels."
+  },
+  "low_cutoff": {
+    "Description": "Not stated in the source NWB for the LFP series (see ieeg.json SoftwareFilters/HardwareFilters).",
+    "Units": "Hz"
+  },
+  "high_cutoff": {
+    "Description": "Not stated in the source NWB for the LFP series (see ieeg.json).",
+    "Units": "Hz"
+  },
+  "group": {
+    "Description": "Recording site (NWB electrodes.location): the microwire bundle of one Behnke-Fried hybrid depth electrode."
+  },
+  "source_origChannel": {
+    "Description": "NWB electrodes table column origChannel (original acquisition channel number)."
+  },
+  "source_electrode_row": {
+    "Description": "Zero-based row of the NWB electrodes table referenced by the LFPs ElectricalSeries for this column."
+  }
+}

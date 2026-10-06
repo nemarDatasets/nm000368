@@ -1,0 +1,2 @@
+filename	recording_year	source_file	source_sha256	source_lfp_starting_time_s	float32_max_abs_error_uV
+ieeg/sub-17_ses-1_task-sternberg_ieeg.vhdr	2021	sourcedata/dandi-000673/sub-17/sub-17_ses-1_ecephys+image.nwb	c1e27bfdf9b9cc32ce1df67bcfecf9c27a9281b9e6e77d84e5d97b6db2bbd745	0.0000152	0.000122

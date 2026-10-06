@@ -1,0 +1,43 @@
+{
+  "TaskDescription": "Sternberg working-memory task with pictures (Daume et al. 2024): 140 trials. Each trial: fixation cross (0.9-1.2 s), then one (load 1, 70 trials) or three (load 3, 70 trials) pictures from five visual categories, each shown for 2 s (separated by a 17-200 ms blank in load 3), a maintenance period of 2.5-2.8 s, and a probe picture; the participant indicates whether the probe was in the set held in memory.",
+  "Instructions": "Remember the picture(s); when the probe appears, indicate whether it was one of the pictures just shown (Daume et al. 2024).",
+  "Manufacturer": "Neuralynx (Cedars-Sinai Medical Center, Toronto Western Hospital) or Blackrock Neurotech (Johns Hopkins Hospital); see InstitutionName",
+  "ManufacturersModelName": "ATLAS (Neuralynx) or Blackrock Neurotech system, depending on the institution",
+  "ElectrodeManufacturer": "Ad-Tech Medical",
+  "ElectrodeManufacturersModelName": "Behnke-Fried hybrid macro-micro depth electrodes (8 microwires per electrode)",
+  "PowerLineFrequency": 60,
+  "HardwareFilters": {
+    "Broadband": {
+      "Description": "Broadband signal recorded between 0.1 and 8000 Hz at 32 kHz (ATLAS, Neuralynx; Cedars-Sinai and Toronto Western) or 30 kHz (Blackrock Neurotech; Johns Hopkins) (Daume et al. 2024, Methods).",
+      "LowCutoffHz": 0.1,
+      "HighCutoffHz": 8000
+    }
+  },
+  "SoftwareFilters": {
+    "SpikeRemovalAndDownsamplingByAuthors": {
+      "Description": "NWB description of the series: 'These are LFP recordings that have spike potentials removed and is downsampled to 400Hz'. Daume et al. (2024, Methods): spike waveforms removed by linear interpolation from -1 to 2 ms around each spike onset (on all wires of the bundle), then zero phase-lag low-pass at 175 Hz and downsampling to 400 Hz. The article then removes line noise (59.5-60.5 and 119.5-120.5 Hz band-stop) for its analysis; whether this band-stop is applied to the released series is not stated. None of this was applied by the BIDS conversion.",
+      "LowPassCutoffHz": 175
+    }
+  },
+  "iEEGReference": "Locally referenced within each recording site, using either one of the eight microwires of the bundle or a dedicated lower-impedance reference wire of the bundle (Daume et al. 2024, Methods); the reference wire per channel is not given in the release.",
+  "iEEGGround": "Not documented in the source release.",
+  "iEEGPlacementScheme": "Clinically placed hybrid depth electrodes for seizure monitoring in drug-resistant epilepsy; microwires in hippocampus, amygdala, dorsal anterior cingulate cortex, pre-supplementary motor area and ventromedial prefrontal cortex. Channels are those present in the source LFP series.",
+  "iEEGElectrodeGroups": "Each source electrode is its own NWB ElectrodeGroup (NLX-microwires-<channel>); the channels.tsv group column gives the recording site (one Behnke-Fried bundle).",
+  "ElectricalStimulation": false,
+  "TaskName": "sternberg",
+  "SamplingFrequency": 400.0,
+  "SEEGChannelCount": 70,
+  "ECOGChannelCount": 0,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "RecordingDuration": 1340.27,
+  "RecordingType": "continuous",
+  "EpochLength": 0,
+  "InstitutionName": "Cedars-Sinai Medical Center",
+  "SoftwareVersions": "conversion: b2dandi_rutishauser_bids.py with pybv 0.8.1",
+  "LFPSeriesDescription": "These are LFP recordings that have spike potentials removed and is downsampled to 400Hz"
+}

@@ -1,0 +1,93 @@
+{
+  "onset": {
+    "Description": "Seconds from the first sample of the LFP recording: source NWB time minus the LFP starting_time (0.00248475 s). All NWB times share the session clock.",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "stop_time - start_time of the source interval row; 0 for point events.",
+    "Units": "s"
+  },
+  "sample": {
+    "Description": "round(onset * SamplingFrequency): zero-based sample index."
+  },
+  "trial_type": {
+    "Description": "Event class.",
+    "Levels": {
+      "sternberg_trial": "One row of the NWB table intervals/trials (\"Intervals for the Sternberg Task\").",
+      "ttl": "TTL marker from acquisition/events (code in value).",
+      "experiment_id": "Marker from acquisition/experiment_ids (only when not aligned with TTLs).",
+      "stimulus_presentation": "Picture presentation from stimulus/presentation/StimulusPresentation (IndexSeries; stimulus_index indexes the source StimulusTemplates)."
+    }
+  },
+  "value": {
+    "Description": "TTL code. Source description: The events coorespond to the TTL markers for each trial. The TTL markers are the following: 61 = Start of Experiment, 11 = Fixation Cross, 1 = Picture #1 Shown, 2 = Picture #2 Shown, 3 = Picture #3 Shown, 5 = Transition between each picture presentation, 6 = End of Encoding Sequence / Start of Maintenance Period, 7 = Probe Stimulus, 8 = Subject Response, 60 = End of Experiment"
+  },
+  "stimulus_index": {
+    "Description": "Index into the source StimulusTemplates image list (images not distributed here)."
+  },
+  "source_table": {
+    "Description": "NWB TimeIntervals table the row comes from."
+  },
+  "source_row_id": {
+    "Description": "Row id in that NWB table."
+  },
+  "source_start_time": {
+    "Description": "Original NWB time (start_time or timestamp) in the session clock.",
+    "Units": "s"
+  },
+  "source_stop_time": {
+    "Description": "Original NWB stop_time.",
+    "Units": "s"
+  },
+  "PicIDs_Encoding1": {
+    "Description": "Source NWB column copied verbatim. Source description: Picture ID for Enc1 loads."
+  },
+  "PicIDs_Encoding2": {
+    "Description": "Source NWB column copied verbatim. Source description: Picture ID for Enc2 loads."
+  },
+  "PicIDs_Encoding3": {
+    "Description": "Source NWB column copied verbatim. Source description: Picture ID for Enc1 loads."
+  },
+  "PicIDs_Probe": {
+    "Description": "Source NWB column copied verbatim. Source description: Picture ID for Probe loads."
+  },
+  "loads": {
+    "Description": "Source NWB column copied verbatim. Source description: Encoding loads for each trial"
+  },
+  "probe_in_out": {
+    "Description": "Source NWB column copied verbatim. Source description: Whether the probe image was held (1) or not held (0) in memory."
+  },
+  "response_accuracy": {
+    "Description": "Source NWB column copied verbatim. Source description: Whether the subject response was correct (1) or incorrect (0)."
+  },
+  "timestamps_Encoding1": {
+    "Description": "Source NWB column copied verbatim. Source description: Start times of picture #1 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+  },
+  "timestamps_Encoding1_end": {
+    "Description": "Source NWB column copied verbatim. Source description: End times of picture #1 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+  },
+  "timestamps_Encoding2": {
+    "Description": "Source NWB column copied verbatim. Source description: Start times of picture #2 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+  },
+  "timestamps_Encoding2_end": {
+    "Description": "Source NWB column copied verbatim. Source description: End times of picture #2 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+  },
+  "timestamps_Encoding3": {
+    "Description": "Source NWB column copied verbatim. Source description: Start times of picture #3 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+  },
+  "timestamps_Encoding3_end": {
+    "Description": "Source NWB column copied verbatim. Source description: End times of picture #3 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+  },
+  "timestamps_FixationCross": {
+    "Description": "Source NWB column copied verbatim. Source description: Start times of fixation cross. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+  },
+  "timestamps_Maintenance": {
+    "Description": "Source NWB column copied verbatim. Source description: Start times of maintenance periods. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+  },
+  "timestamps_Probe": {
+    "Description": "Source NWB column copied verbatim. Source description: Start times of probe onset. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+  },
+  "timestamps_Response": {
+    "Description": "Source NWB column copied verbatim. Source description: Time stamps of button press. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+  }
+}

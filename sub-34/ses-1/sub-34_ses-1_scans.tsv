@@ -1,0 +1,2 @@
+filename	recording_year	source_file	source_sha256	source_lfp_starting_time_s	float32_max_abs_error_uV
+ieeg/sub-34_ses-1_task-sternberg_ieeg.vhdr	2018	sourcedata/dandi-000673/sub-34/sub-34_ses-1_ecephys+image.nwb	a9372c237a8c1094e5a50aaba101a7938e5f9b2f4c14c4ac3e80c3c4e05076bd	0.0025000	3.05e-05

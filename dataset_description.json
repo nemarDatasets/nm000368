@@ -1,0 +1,64 @@
+{
+  "Name": "Sternberg working memory: human microwire LFP from medial temporal and medial frontal lobe (Daume et al. 2024, DANDI 000673)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "raw",
+  "License": "CC-BY-4.0",
+  "Authors": [
+    "Jonathan Daume",
+    "Jan Kaminski",
+    "Andrea G. P. Schjetnan",
+    "Yousef Salimpour",
+    "Umais Khan",
+    "Michael Kyzar",
+    "Chrystal M. Reed",
+    "William S. Anderson",
+    "Taufik A. Valiante",
+    "Adam N. Mamelak",
+    "Ueli Rutishauser"
+  ],
+  "Acknowledgements": "Data collected and originally released by the authors above (Cedars-Sinai Medical Center, Toronto Western Hospital, Johns Hopkins Hospital). This iEEG-BIDS representation of the microwire local field potentials was produced by Bruno Aristimunha from the DANDI release DANDI:000673/0.250122.0110 without changing signal values; see README. Original acknowledgement (Daume et al. 2024): 'We thank the patients who volunteered to participate in this study; the members of the clinical teams at Cedars-Sinai Medical Center, J. Chung, L. Bateman, and the staff at Toronto Western Hospital and John's Hopkins School of Medicine for patient management and care and support of data acquisition; T. Rusch, J. Minxha and S. Fusi for discussion; N. Chandravadia for data processing; and I. Reucroft for data acquisition.'",
+  "HowToAcknowledge": "Please cite the article: Daume J, Kaminski J, Schjetnan AGP, Salimpour Y, Khan U, Kyzar M, Reed CM, Anderson WS, Valiante TA, Mamelak AN, Rutishauser U. Control of working memory by phase-amplitude coupling of human hippocampal neurons. Nature 629, 393-401 (2024). https://doi.org/10.1038/s41586-024-07309-z ; and the source data: Daume J et al. (2025) Data for: Control of working memory by phase-amplitude coupling of human hippocampal neurons (Version 0.250122.0110). DANDI Archive. https://doi.org/10.48324/dandi.000673/0.250122.0110",
+  "Funding": [
+    "German National Academy of Sciences Leopoldina Postdoctoral fellowship (J.D.)",
+    "Center for Neural Science and Medicine at Cedars-Sinai Postdoctoral fellowship (J.D.)",
+    "BRAIN Initiative / National Institute of Neurological Disorders and Stroke U01NS103792 (U.R.)",
+    "BRAIN Initiative / National Institute of Neurological Disorders and Stroke U01NS117839 (U.R.)",
+    "National Science Foundation BCS-2219800 (U.R.)"
+  ],
+  "EthicsApprovals": [
+    "Institutional Review Board of the institution at which the patient was enrolled (Cedars-Sinai Medical Center, Toronto Western Hospital or Johns Hopkins Hospital; NIH BRAIN consortium study), per Daume et al. 2024"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/s41586-024-07309-z",
+    "https://doi.org/10.48324/dandi.000673/0.250122.0110",
+    "https://github.com/rutishauserlab/SBCAT-release-NWB",
+    "https://zenodo.org/records/10494534",
+    "https://dandiarchive.org/dandiset/000469"
+  ],
+  "Keywords": [
+    "intracranial",
+    "microwire",
+    "local field potential",
+    "working memory",
+    "Sternberg task",
+    "phase-amplitude coupling",
+    "theta",
+    "gamma",
+    "hippocampus",
+    "human",
+    "epilepsy"
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://dandiarchive.org/dandiset/000673/0.250122.0110",
+      "DOI": "doi:10.48324/dandi.000673/0.250122.0110",
+      "Version": "0.250122.0110"
+    }
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "b2dandi_rutishauser_bids.py (iEEG-NEMAR campaign, batch 2, 2026-10)",
+      "Description": "Writes acquisition/LFPs (ElectricalSeries) of each NWB file to BrainVision float32 microvolts (resolution 1.0) without filtering, resampling, re-referencing, cropping or channel removal; maps the trials table, TTL markers and stimulus presentations to events. The original NWB files are not redistributed here because they embed the copyrighted stimulus pictures; sourcedata/sourcedata_provenance.json lists each file with its DANDI download URL and SHA-256."
+    }
+  ]
+}

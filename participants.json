@@ -1,0 +1,31 @@
+{
+  "participant_id": {
+    "Description": "BIDS subject label; equal to the DANDI subject label of DANDI 000673 (sub-1 ... sub-36)."
+  },
+  "age": {
+    "Description": "Age from NWB general/subject/age (ISO 8601 duration, years).",
+    "Units": "year"
+  },
+  "sex": {
+    "Description": "Sex from NWB general/subject/sex.",
+    "Levels": {
+      "F": "female",
+      "M": "male"
+    }
+  },
+  "species": {
+    "Description": "Species from NWB general/subject/species."
+  },
+  "recording_institution": {
+    "Description": "Institution as stated in NWB general/institution. Every file of this release states 'Cedars-Sinai Medical Center', although the article reports recordings at Cedars-Sinai Medical Center, Toronto Western Hospital and Johns Hopkins Hospital; the per-patient site is not given in the release."
+  },
+  "dandi_subject_id": {
+    "Description": "NWB general/subject/subject_id in the source file."
+  },
+  "lab_patient_code": {
+    "Description": "Lab patient code, the suffix of the NWB file identifier (e.g. sub-8_ses-1_P62CS -> P62CS). CS = Cedars-Sinai Medical Center, TWH = Toronto Western Hospital, JHU = Johns Hopkins. The same codes appear in other Rutishauser-lab releases on DANDI."
+  },
+  "same_participant_in": {
+    "Description": "Subjects of other public releases with the same lab patient code AND the same age and sex in their NWB metadata (checked 2026-10-07 against DANDI 000623, 000940 and 000673); these are treated as the same person recorded in a different task/session. n/a = no such match."
+  }
+}

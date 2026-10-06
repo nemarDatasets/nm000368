@@ -1,0 +1,7 @@
+{
+  "recording_year": {"Description": "Year of the recording. The source sets NWB session_start_time to 1 January of the recording year 'to avoid disclosure of protected health information (PHI)'; only the year is meaningful and no acq_time is given."},
+  "source_file": {"Description": "Original NWB file (DANDI asset path). Not included in this dataset because it embeds copyrighted stimulus images; obtain it from DANDI with the URL in sourcedata/sourcedata_provenance.json."},
+  "source_sha256": {"Description": "SHA-256 of the source NWB file, equal to the DANDI asset digest dandi:sha2-256."},
+  "source_lfp_starting_time_s": {"Description": "starting_time of acquisition/LFPs in the NWB session clock; event onsets are source times minus this value.", "Units": "s"},
+  "float32_max_abs_error_uV": {"Description": "Largest absolute difference between the float32 values in the BrainVision file and the float64 source values (microvolts): the only change introduced by this conversion.", "Units": "µV"}
+}
