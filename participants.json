@@ -1,9 +1,9 @@
 {
   "participant_id": {
-    "Description": "BIDS subject label; equal to the DANDI subject label of DANDI 000673 (sub-1 ... sub-36)."
+    "Description": "BIDS subject label; equal to the DANDI subject label of DANDI 000673 (sub-1 ... sub-36). Mapping to Daume et al. 2024 Supplementary Table S5 (rows named by lab code, e.g. P55cs, P101T, P1802jh; _2/_3 = further sessions): lab code, age and sex agree for all 35 subjects, the number of sessions agrees, and for every one of the 43 sessions the number of LFP channels per area (hippocampus, amygdala, pre-SMA, dACC, vmPFC) in this release equals the number of clean micro-LFP channels per area in Table S5. Table S5 also lists P88T (male, 26, right mesial temporal), i.e. DANDI sub-20 (P088TWH), which is not included here (no LFP in the release)."
   },
   "age": {
-    "Description": "Age from NWB general/subject/age (ISO 8601 duration, years).",
+    "Description": "Age from NWB general/subject/age (ISO 8601 duration, years). Cohort (Daume et al. 2024, Methods): 36 patients, 44 sessions, 21 female / 15 male, age 40.47 +/- 13.76 years (mean +/- s.d.); the ages agree with Supplementary Table S5 for all 35 included subjects.",
     "Units": "year"
   },
   "sex": {
@@ -27,5 +27,35 @@
   },
   "same_participant_in": {
     "Description": "Subjects of other public releases with the same lab patient code AND the same age and sex in their NWB metadata (checked 2026-10-07 against DANDI 000623, 000940 and 000673); these are treated as the same person recorded in a different task/session. n/a = no such match."
+  },
+  "diagnosis": {
+    "Description": "Clinical indication. Daume et al. 2024 (Methods): all patients had Behnke-Fried hybrid electrodes implanted \"for intracranial seizure monitoring and evaluation for surgical treatment of drug-resistant epilepsy\"."
+  },
+  "seizure_onset_zone": {
+    "Description": "Seizure onset zone as reported per patient in Daume et al. 2024, Supplementary Table S5 (column \"Seizure onset zone\"), verbatim; \"Not localized\" is the article's wording. https://doi.org/10.1038/s41586-024-07309-z"
+  },
+  "implant_type": {
+    "Description": "Electrode type (Daume et al. 2024, Methods): Behnke-Fried hybrid macro-micro depth electrodes (AdTech); this release contains only the microwire LFP."
+  },
+  "n_sessions": {
+    "Description": "Number of Sternberg sessions of this participant in this release (ses-1 ... ses-N); equals the number of rows of the participant in Daume et al. 2024 Supplementary Table S5."
+  },
+  "paper_session_labels": {
+    "Description": "Row labels of this participant's sessions in Daume et al. 2024 Supplementary Table S5, in session order (first label = ses-1, \"_2\" = ses-2, \"_3\" = ses-3)."
+  },
+  "recording_year": {
+    "Description": "Year of the recording session(s) from NWB session_start_time (scans.tsv), which the authors set to 1 January of the recording year to avoid disclosure of protected health information; comma-separated if sessions differ (all sessions of a participant share one year in this release).",
+    "Units": "year"
+  },
+  "lfp_regions": {
+    "Description": "Recording sites (NWB electrode group location, channels.tsv group column) of the microwire LFP channels present in this release, union over the participant's sessions. Hemisphere suffix as given by the source. Only microwires present in the released LFP series are counted, so this can be a subset of the implanted sites."
+  },
+  "lfp_hemispheres": {
+    "Description": "Hemisphere(s) of the released microwire LFP channels, derived from lfp_regions.",
+    "Levels": {
+      "left": "left hemisphere only",
+      "right": "right hemisphere only",
+      "bilateral": "both hemispheres"
+    }
   }
 }

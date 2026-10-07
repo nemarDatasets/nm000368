@@ -1,2 +1,8 @@
+1.0.1 2026-10-07
+  - 2026-10-07 metadata enrichment: participants.tsv/json (seizure onset zone and session labels from Daume et al.
+    2024 Supplementary Table S5, mapping verified by lab code/age/sex/session count and per-area LFP channel counts
+    for 35/35 participants and 43/43 sessions; diagnosis, implant type, recording year, LFP regions and hemispheres),
+    README (cohort, caveats, how to load, citation).
+
 1.0.0 2026-10-07
   - Initial iEEG-BIDS representation of the microwire LFP of DANDI 000673 version 0.250122.0110.

@@ -108,12 +108,30 @@ uses "Other" with that description.
 
 Participants
 ------------
-participants.tsv: age and sex from NWB general/subject, species, NWB institution, DANDI subject id.
+Cohort (Daume et al. 2024, Methods and Supplementary Table S5): 36 patients (44 sessions; 21 female, 15 male;
+age 40.47 +/- 13.76 years) with Behnke-Fried hybrid electrodes (AdTech) implanted for intracranial seizure
+monitoring and evaluation for surgical treatment of drug-resistant epilepsy, at Cedars-Sinai Medical Center,
+Toronto Western Hospital and Johns Hopkins Hospital. Recording years (NWB, year only): 2018-2022.
+sub-20 (lab code P088TWH) is not included: its only NWB file has spike-sorted units but no LFP series
+(acquisition/LFPs absent), so 35 of the 36 DANDI participants are present (Table S5: P88T, male, 26, right
+mesial temporal onset).
+
+participants.tsv columns:
+  age, sex, species, recording_institution, dandi_subject_id   NWB general/subject and general/institution.
+  lab_patient_code, same_participant_in                         NWB file identifier; links to other releases.
+  seizure_onset_zone                                            Daume et al. 2024 Supplementary Table S5, verbatim.
+  paper_session_labels, n_sessions                              Table S5 row labels of the participant's sessions
+                                                                (first = ses-1, _2 = ses-2, _3 = ses-3).
+  diagnosis, implant_type                                       cohort-level facts from the article Methods.
+  recording_year                                                year of NWB session_start_time (as scans.tsv).
+  lfp_regions, lfp_hemispheres                                  derived from channels.tsv of this release.
+Mapping proof: Table S5 names rows by lab code (P55cs, P101T, P1802jh, ...). For all 35 participants the code,
+age, sex and number of sessions agree, and for every one of the 43 sessions the number of LFP channels per area
+(hippocampus, amygdala, pre-SMA, dACC, vmPFC) in this release equals Table S5's number of clean micro-LFP
+channels per area. Table S5 also gives neuron counts per session and area (not copied here).
+Handedness, epilepsy duration/onset age, etiology and medication are not reported by the sources (n/a).
 Recording year (scans.tsv) is the year of the NWB session_start_time, which the authors set to 1 January of
 the recording year to avoid disclosure of protected health information.
-sub-20 (lab code P088TWH) is not included: its only NWB file has spike-sorted units but no LFP series
-(acquisition/LFPs absent), so 35 of the 36 DANDI participants are present. participants.tsv also gives the lab
-patient code and the same participant in other public releases (see Overview).
 
 Not converted (available unchanged in the NWB files on DANDI)
 --------------------------------------------------------------
@@ -132,3 +150,32 @@ Conversion checks
 - bids-validator 3.0.2: 0 errors; warnings only for recommended fields the source does not document.
 
 Conversion code: b2dandi_rutishauser_bids.py (iEEG-NEMAR campaign, batch 2), using h5py and pybv.
+
+Known caveats
+-------------
+- Every NWB file states general/institution = "Cedars-Sinai Medical Center" although the article reports three
+  sites; recording_institution and InstitutionName repeat the NWB value (see Signal).
+- Whether the article's 60/120 Hz band-stop was applied to the released series is not stated; the reference
+  wire per channel is not given (see Signal).
+- The stimulus pictures are not distributed (copyright; see Contents).
+- One code (P116TWH here, TWH116 in DANDI 000940) has a different age and sex in the two releases and is not
+  linked; DANDI 000940 states 2018 for all its files, including patients whose Sternberg sessions here are dated
+  2019 or 2020.
+
+How to load
+-----------
+  from mne_bids import BIDSPath, read_raw_bids
+  bp = BIDSPath(root="nm000368", subject="1", session="1", task="sternberg", datatype="ieeg")
+  raw = read_raw_bids(bp)            # 400 Hz microwire LFP in microvolts (MNE stores volts)
+  events = raw.annotations           # trials, TTL markers, picture presentations from events.tsv
+
+Citation
+--------
+Daume J, Kaminski J, Schjetnan AGP, Salimpour Y, Khan U, Kyzar M, Reed CM, Anderson WS, Valiante TA, Mamelak AN,
+Rutishauser U. Control of working memory by phase-amplitude coupling of human hippocampal neurons. Nature 629,
+393-401 (2024). doi:10.1038/s41586-024-07309-z ; and the data: doi:10.48324/dandi.000673/0.250122.0110.
+
+Provenance of the 2026-10-07 metadata enrichment
+------------------------------------------------
+Daume et al. 2024 Methods and Supplementary Information (Supplementary Table S5); the release itself
+(channels.tsv, scans.tsv).
