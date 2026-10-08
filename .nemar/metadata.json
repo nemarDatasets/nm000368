@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Sternberg working memory: human microwire LFP from medial temporal and medial frontal lobe (Daume et al. 2024, DANDI 000673)",
-  "description": "Microwire local field potential (LFP) recordings from Behnke-Fried hybrid depth electrodes in 35 patients with drug-resistant epilepsy undergoing invasive seizure monitoring. Patients performed a Sternberg working-memory task with pictures (load 1 or 3). Recording sites include the hippocampus, amygdala, dorsal anterior cingulate cortex, pre-supplementary motor area and ventromedial prefrontal cortex. This is an iEEG-BIDS representation of the NWB data released on DANDI (000673), with signal values unchanged apart from float32 conversion.",
-  "methods_description": "Broadband signals were recorded at 32 kHz (Neuralynx) or 30 kHz (Blackrock) from microwire bundles. The authors removed spike waveforms by interpolation, applied a 175 Hz zero-phase low-pass filter and downsampled to 400 Hz. The LFP series were converted to BrainVision float32 microvolts without further filtering, resampling, re-referencing or channel removal. Trials, TTL markers and picture presentations were mapped to events files.",
+  "description": "Microwire local field potentials (400 Hz) from Behnke-Fried hybrid depth electrodes in 35 patients with drug-resistant epilepsy, recorded during a picture-based Sternberg working-memory task with load 1 or load 3. Recording sites include the hippocampus, amygdala, dorsal anterior cingulate cortex, pre-supplementary motor area and ventromedial prefrontal cortex. This is an iEEG-BIDS representation of the NWB data released on DANDI (000673) from the Daume et al. 2024 study, with signal values unchanged.",
+  "methods_description": "Broadband signals were recorded at 32 kHz (Neuralynx) or 30 kHz (Blackrock) from microwire bundles. The authors removed spike waveforms by interpolation, applied a 175 Hz zero-phase low-pass filter and downsampled to 400 Hz. The conversion wrote the LFP series to BrainVision float32 microvolts without further filtering, resampling, re-referencing or cropping. Trials, TTL markers and picture presentations were mapped to events files.",
   "license": "CC-BY-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -112,7 +112,7 @@
       "term": "intracranial EEG"
     },
     {
-      "term": "microwire local field potential"
+      "term": "local field potential"
     },
     {
       "term": "working memory"
@@ -124,13 +124,16 @@
       "term": "phase-amplitude coupling"
     },
     {
+      "term": "microwire"
+    },
+    {
       "term": "theta"
     },
     {
       "term": "gamma"
     },
     {
-      "term": "human"
+      "term": "amygdala"
     },
     {
       "term": "Hippocampus",
@@ -174,11 +177,11 @@
     },
     {
       "funder_name": "German National Academy of Sciences Leopoldina",
-      "award_title": "Postdoctoral fellowship"
+      "award_title": "Postdoctoral fellowship (J.D.)"
     },
     {
       "funder_name": "Center for Neural Science and Medicine at Cedars-Sinai",
-      "award_title": "Postdoctoral fellowship"
+      "award_title": "Postdoctoral fellowship (J.D.)"
     },
     {
       "funder_name": "National Institute of Neurological Disorders and Stroke",
