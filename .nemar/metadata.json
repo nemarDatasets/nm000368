@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Sternberg working memory: human microwire LFP from medial temporal and medial frontal lobe (Daume et al. 2024, DANDI 000673)",
+  "description": "Microwire local field potential (LFP) recordings from Behnke-Fried hybrid depth electrodes in 35 patients with drug-resistant epilepsy undergoing invasive seizure monitoring. Patients performed a Sternberg working-memory task with pictures (load 1 or 3). Recording sites include the hippocampus, amygdala, dorsal anterior cingulate cortex, pre-supplementary motor area and ventromedial prefrontal cortex. This is an iEEG-BIDS representation of the NWB data released on DANDI (000673), with signal values unchanged apart from float32 conversion.",
+  "methods_description": "Broadband signals were recorded at 32 kHz (Neuralynx) or 30 kHz (Blackrock) from microwire bundles. The authors removed spike waveforms by interpolation, applied a 175 Hz zero-phase low-pass filter and downsampled to 400 Hz. The LFP series were converted to BrainVision float32 microvolts without further filtering, resampling, re-referencing or channel removal. Trials, TTL markers and picture presentations were mapped to events files.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "raw",
   "authors": {
     "Jonathan Daume": {
       "orcid": "0000-0002-6516-7288",
@@ -102,6 +107,42 @@
       ]
     }
   },
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "microwire local field potential"
+    },
+    {
+      "term": "working memory"
+    },
+    {
+      "term": "Sternberg task"
+    },
+    {
+      "term": "phase-amplitude coupling"
+    },
+    {
+      "term": "theta"
+    },
+    {
+      "term": "gamma"
+    },
+    {
+      "term": "human"
+    },
+    {
+      "term": "Hippocampus",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D006624"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.48324/dandi.000673/0.250122.0110",
@@ -132,73 +173,43 @@
       "funder_name": "Center for Neural Science and Medicine at Cedars-Sinai Postdoctoral fellowship (J.D.)"
     },
     {
-      "funder_name": "BRAIN Initiative / National Institute of Neurological Disorders and Stroke",
+      "funder_name": "German National Academy of Sciences Leopoldina",
+      "award_title": "Postdoctoral fellowship"
+    },
+    {
+      "funder_name": "Center for Neural Science and Medicine at Cedars-Sinai",
+      "award_title": "Postdoctoral fellowship"
+    },
+    {
+      "funder_name": "National Institute of Neurological Disorders and Stroke",
       "award_number": "U01NS103792"
     },
     {
-      "funder_name": "BRAIN Initiative / National Institute of Neurological Disorders and Stroke",
+      "funder_name": "National Institute of Neurological Disorders and Stroke",
       "award_number": "U01NS117839"
     },
     {
       "funder_name": "National Science Foundation",
       "award_number": "BCS-2219800"
-    },
-    {
-      "funder_name": "German National Academy of Sciences Leopoldina",
-      "award_title": "Postdoctoral fellowship (J.D.)"
-    },
-    {
-      "funder_name": "Center for Neural Science and Medicine at Cedars-Sinai",
-      "award_title": "Postdoctoral fellowship (J.D.)"
     }
   ],
-  "title": "Sternberg working memory: human microwire LFP from medial temporal and medial frontal lobe (Daume et al. 2024, DANDI 000673)",
-  "license": "CC-BY-4.0",
-  "dataset_type": "raw",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
     "4.10 GB (87 files)"
   ],
   "formats": [
     ".eeg",
     ".json",
+    ".md",
     ".tsv",
     ".vhdr",
     ".vmrk",
-    ".yaml"
+    ".yaml",
+    ".yml"
   ],
-  "description": "Microwire local field potentials (LFP) recorded from Behnke-Fried hybrid depth electrodes in 35 patients with drug-resistant epilepsy during a Sternberg working-memory task with pictures (load 1 or 3). Recording sites include the hippocampus, amygdala, dorsal anterior cingulate cortex, pre-supplementary motor area and ventromedial prefrontal cortex. This is an iEEG-BIDS representation of the NWB data released on DANDI (000673), with trial, TTL and picture-presentation events, and signal values left unchanged.",
-  "methods_description": "LFPs were recorded at 30-32 kHz from microwire bundles at three clinical sites, with spikes removed by interpolation, low-pass filtered at 175 Hz and downsampled to 400 Hz by the original authors. The conversion wrote the 400 Hz series to BrainVision float32 microvolts without filtering, resampling, re-referencing, cropping or channel removal. Events cover trials, TTL markers and picture presentations.",
-  "keywords": [
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "local field potential"
-    },
-    {
-      "term": "working memory"
-    },
-    {
-      "term": "microwire electrodes"
-    },
-    {
-      "term": "phase-amplitude coupling"
-    },
-    {
-      "term": "Hippocampus",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D006624"
-    },
-    {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    }
-  ],
-  "source_hash": "4d2b51d03b65eca74379257f5f16c8e303767d25e0cb34bf15cc86b57242ae07"
+  "source_hash": "73538eb1a3f2c46f3ec973ca4dc73fffe14cabbfd3622b70beb962e84e52ef97"
 }
