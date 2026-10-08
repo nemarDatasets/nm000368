@@ -60,5 +60,7 @@
       "Name": "b2dandi_rutishauser_bids.py (iEEG-NEMAR campaign, batch 2, 2026-10)",
       "Description": "Writes acquisition/LFPs (ElectricalSeries) of each NWB file to BrainVision float32 microvolts (resolution 1.0) without filtering, resampling, re-referencing, cropping or channel removal; maps the trials table, TTL markers and stimulus presentations to events. The original NWB files are not redistributed here because they embed the copyrighted stimulus pictures; sourcedata/sourcedata_provenance.json lists each file with its DANDI download URL and SHA-256."
     }
-  ]
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000368",
+  "Version": "1.0.0"
 }
