@@ -1,5 +1,5 @@
 {
-  "Name": "Sternberg working memory: human microwire LFP from medial temporal and medial frontal lobe (Daume et al. 2024, DANDI 000673)",
+  "Name": "Daume-2024-control-10.1038/s41586-024-07309-z",
   "BIDSVersion": "1.10.0",
   "DatasetType": "raw",
   "License": "CC-BY-4.0",
@@ -62,5 +62,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000368",
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }
