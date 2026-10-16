@@ -1,3 +1,6 @@
+1.0.2 2026-10-16
+  - Restore the descriptive dataset Name recorded in the v1.0.0 history. Update generated metadata title and source hash.
+
 1.0.1 2026-10-07
   - 2026-10-07 metadata enrichment: participants.tsv/json (seizure onset zone and session labels from Daume et al.
     2024 Supplementary Table S5, mapping verified by lab code/age/sex/session count and per-area LFP channel counts

@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "enriched",
-  "title": "Daume-2024-control-10.1038/s41586-024-07309-z",
+  "title": "Sternberg working memory: human microwire LFP from medial temporal and medial frontal lobe (Daume et al. 2024, DANDI 000673)",
   "description": "Microwire local field potentials (LFP) recorded from Behnke-Fried hybrid depth electrodes in 35 patients with drug-resistant epilepsy during a picture-based Sternberg working-memory task (load 1 or 3). Recordings cover hippocampus, amygdala, dorsal anterior cingulate, pre-SMA and ventromedial prefrontal cortex, and were collected across three institutions within an NIH BRAIN consortium. This iEEG-BIDS representation converts the authors' NWB release from DANDI 000673 without altering signal values, and includes trial, TTL and stimulus-presentation events. The data accompany Daume et al. 2024 (Nature), on control of working memory by phase-amplitude coupling of human hippocampal neurons.",
   "methods_description": "LFPs were originally recorded broadband (0.1-8000 Hz) at 32 kHz (Neuralynx) or 30 kHz (Blackrock), spike waveforms were removed by interpolation, then low-pass filtered at 175 Hz and downsampled to 400 Hz. The conversion wrote the source float64 microvolt values to BrainVision float32 without filtering, resampling, re-referencing or channel removal. Events were derived from the NWB trials table, TTL markers and stimulus presentations.",
   "license": "CC-BY-4.0",
@@ -219,5 +219,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "06cf06ab2f21141d42c652e165b12f0053f3c68397e0960e052db0bfd12fd628"
+  "source_hash": "f3cd7a39f0c5498e958f10b72b42e4658483afb18653cb804a27389ce0c5e5cb"
 }
