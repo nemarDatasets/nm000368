@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "validated",
-  "title": "Sternberg working memory: human microwire LFP from medial temporal and medial frontal lobe (Daume et al. 2024, DANDI 000673)",
-  "description": "Microwire local field potentials (400 Hz) from Behnke-Fried hybrid depth electrodes in 35 patients with drug-resistant epilepsy, recorded during a picture-based Sternberg working-memory task with load 1 or load 3. Recording sites include the hippocampus, amygdala, dorsal anterior cingulate cortex, pre-supplementary motor area and ventromedial prefrontal cortex. This is an iEEG-BIDS representation of the NWB data released on DANDI (000673) from the Daume et al. 2024 study, with signal values unchanged.",
-  "methods_description": "Broadband signals were recorded at 32 kHz (Neuralynx) or 30 kHz (Blackrock) from microwire bundles. The authors removed spike waveforms by interpolation, applied a 175 Hz zero-phase low-pass filter and downsampled to 400 Hz. The conversion wrote the LFP series to BrainVision float32 microvolts without further filtering, resampling, re-referencing or cropping. Trials, TTL markers and picture presentations were mapped to events files.",
+  "pipeline_stage": "enriched",
+  "title": "Daume-2024-control-10.1038/s41586-024-07309-z",
+  "description": "Microwire local field potentials (LFP) recorded from Behnke-Fried hybrid depth electrodes in 35 patients with drug-resistant epilepsy during a picture-based Sternberg working-memory task (load 1 or 3). Recordings cover hippocampus, amygdala, dorsal anterior cingulate, pre-SMA and ventromedial prefrontal cortex, and were collected across three institutions within an NIH BRAIN consortium. This iEEG-BIDS representation converts the authors' NWB release from DANDI 000673 without altering signal values, and includes trial, TTL and stimulus-presentation events. The data accompany Daume et al. 2024 (Nature), on control of working memory by phase-amplitude coupling of human hippocampal neurons.",
+  "methods_description": "LFPs were originally recorded broadband (0.1-8000 Hz) at 32 kHz (Neuralynx) or 30 kHz (Blackrock), spike waveforms were removed by interpolation, then low-pass filtered at 175 Hz and downsampled to 400 Hz. The conversion wrote the source float64 microvolt values to BrainVision float32 without filtering, resampling, re-referencing or channel removal. Events were derived from the NWB trials table, TTL markers and stimulus presentations.",
   "license": "CC-BY-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -118,10 +118,25 @@
       "term": "working memory"
     },
     {
-      "term": "Sternberg task"
+      "term": "Memory, Short-Term",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D008570"
     },
     {
       "term": "phase-amplitude coupling"
+    },
+    {
+      "term": "Hippocampus",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D006624"
+    },
+    {
+      "term": "Sternberg task"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
       "term": "microwire"
@@ -133,17 +148,7 @@
       "term": "gamma"
     },
     {
-      "term": "amygdala"
-    },
-    {
-      "term": "Hippocampus",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D006624"
-    },
-    {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+      "term": "human"
     }
   ],
   "related_identifiers": [
@@ -177,18 +182,18 @@
     },
     {
       "funder_name": "German National Academy of Sciences Leopoldina",
-      "award_title": "Postdoctoral fellowship (J.D.)"
+      "award_title": "Postdoctoral fellowship"
     },
     {
       "funder_name": "Center for Neural Science and Medicine at Cedars-Sinai",
-      "award_title": "Postdoctoral fellowship (J.D.)"
+      "award_title": "Postdoctoral fellowship"
     },
     {
-      "funder_name": "National Institute of Neurological Disorders and Stroke",
+      "funder_name": "NIH BRAIN Initiative / National Institute of Neurological Disorders and Stroke",
       "award_number": "U01NS103792"
     },
     {
-      "funder_name": "National Institute of Neurological Disorders and Stroke",
+      "funder_name": "NIH BRAIN Initiative / National Institute of Neurological Disorders and Stroke",
       "award_number": "U01NS117839"
     },
     {
@@ -214,5 +219,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "73538eb1a3f2c46f3ec973ca4dc73fffe14cabbfd3622b70beb962e84e52ef97"
+  "source_hash": "06cf06ab2f21141d42c652e165b12f0053f3c68397e0960e052db0bfd12fd628"
 }
