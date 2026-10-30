@@ -93,6 +93,9 @@ onset = NWB time - LFP starting_time (all NWB times share the session clock). Be
                          response_accuracy and the absolute NWB times timestamps_FixationCross,
                          timestamps_Encoding1/2/3(_end), timestamps_Maintenance, timestamps_Probe,
                          timestamps_Response.
+                         Load-1 trials have no 2nd/3rd picture; the source stores 0 in PicIDs_Encoding2/3 and
+                         timestamps_Encoding2/3(_end) of all 3003 load-1 trials (never in load-3 trials). Since
+                         30 Oct 2026 these empty slots are written n/a (code/fix-20261030_load1_padding_na.py).
   ttl                    every TTL marker (acquisition/events): 61 start of experiment, 11 fixation cross,
                          1/2/3 picture 1/2/3 shown, 5 transition between pictures, 6 end of encoding / start
                          of maintenance, 7 probe, 8 response, 60 end of experiment (NWB description).
@@ -107,6 +110,14 @@ electrodes.tsv gives the x, y, z of the NWB electrodes table in mm (one location
 plots electrode positions "on the CITI168 Atlas Brain in MNI152 coordinates for the sole purpose of
 visualization" and notes that template coordinates can fall into white matter; coordsystem.json therefore
 uses "Other" with that description.
+
+Hemisphere of the vmPFC bundles: the `location` labels (from the NWB electrodes table) and the sign of x disagree
+for the ventromedial prefrontal bundles. Counting one row per bundle and session, 43 of 44 vmPFC bundles labelled
+`_left` or `_right` lie on the opposite side of the midline (|x| 1.0-11.0 mm), while hippocampus (85) and amygdala
+(64) bundles all agree; 2 other bundles (1 dACC, 1 pre-SMA) disagree within 1.3 mm of the midline. The release does
+not say whether the vmPFC labels or the template x are mirrored, and the article plots template positions for
+visualization only; both are kept as released. Do not infer vmPFC hemisphere from x (or from the label) without
+checking.
 
 Participants
 ------------

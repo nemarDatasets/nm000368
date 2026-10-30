@@ -42,7 +42,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 32.094627	0.000000	12838	stimulus_presentation	n/a	115	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32.094643	n/a
 32.094627	0.000000	12838	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	32.094643	n/a
 33.148158	0.000000	13259	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33.148174	n/a
-33.227096	6.511372	13291	sternberg_trial	n/a	n/a	503	0	0	503	1	1	1	34.310424	36.326767	0.0	0.0	0.0	0.0	33.227112	36.326767	39.010172	39.738484	intervals/trials	3	33.227112	39.738484
+33.227096	6.511372	13291	sternberg_trial	n/a	n/a	503	n/a	n/a	503	1	1	1	34.310424	36.326767	n/a	n/a	n/a	n/a	33.227112	36.326767	39.010172	39.738484	intervals/trials	3	33.227112	39.738484
 33.227096	0.000000	13291	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	33.227112	n/a
 34.310408	0.000000	13724	stimulus_presentation	n/a	228	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34.310424	n/a
 34.310408	0.000000	13724	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	34.310424	n/a
@@ -122,7 +122,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 94.016227	0.000000	37606	stimulus_presentation	n/a	175	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	94.016243	n/a
 94.016227	0.000000	37606	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	94.016243	n/a
 94.957633	0.000000	37983	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	94.957649	n/a
-94.998602	6.389466	37999	sternberg_trial	n/a	n/a	305	0	0	402	1	0	1	95.93205499999999	97.948179	0.0	0.0	0.0	0.0	94.998618	97.948179	100.68189699999999	101.38808399999999	intervals/trials	9	94.998618	101.388084
+94.998602	6.389466	37999	sternberg_trial	n/a	n/a	305	n/a	n/a	402	1	0	1	95.93205499999999	97.948179	n/a	n/a	n/a	n/a	94.998618	97.948179	100.68189699999999	101.38808399999999	intervals/trials	9	94.998618	101.388084
 94.998602	0.000000	37999	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	94.998618	n/a
 95.932039	0.000000	38373	stimulus_presentation	n/a	119	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	95.932055	n/a
 95.932039	0.000000	38373	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	95.932055	n/a
@@ -132,7 +132,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 100.681881	0.000000	40273	stimulus_presentation	n/a	172	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	100.681897	n/a
 100.681881	0.000000	40273	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	100.681897	n/a
 101.388068	0.000000	40555	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	101.388084	n/a
-101.430849	6.499717	40572	sternberg_trial	n/a	n/a	306	0	0	306	1	1	1	102.48070899999999	104.497177	0.0	0.0	0.0	0.0	101.430865	104.497177	107.130426	107.930582	intervals/trials	10	101.430865	107.930582
+101.430849	6.499717	40572	sternberg_trial	n/a	n/a	306	n/a	n/a	306	1	1	1	102.48070899999999	104.497177	n/a	n/a	n/a	n/a	101.430865	104.497177	107.130426	107.930582	intervals/trials	10	101.430865	107.930582
 101.430849	0.000000	40572	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	101.430865	n/a
 102.480693	0.000000	40992	stimulus_presentation	n/a	120	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	102.480709	n/a
 102.480693	0.000000	40992	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	102.480709	n/a
@@ -170,7 +170,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 128.776276	0.000000	51511	stimulus_presentation	n/a	177	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	128.776292	n/a
 128.776276	0.000000	51511	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	128.776292	n/a
 129.733495	0.000000	51893	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	129.733510	n/a
-129.775307	6.692528	51910	sternberg_trial	n/a	n/a	208	0	0	208	1	1	1	130.87575999999999	132.89150899999999	0.0	0.0	0.0	0.0	129.775323	132.89150899999999	135.641414	136.467851	intervals/trials	13	129.775323	136.467851
+129.775307	6.692528	51910	sternberg_trial	n/a	n/a	208	n/a	n/a	208	1	1	1	130.87575999999999	132.89150899999999	n/a	n/a	n/a	n/a	129.775323	132.89150899999999	135.641414	136.467851	intervals/trials	13	129.775323	136.467851
 129.775307	0.000000	51910	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	129.775323	n/a
 130.875744	0.000000	52350	stimulus_presentation	n/a	65	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	130.875760	n/a
 130.875744	0.000000	52350	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	130.875760	n/a
@@ -194,7 +194,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 146.522801	0.000000	58609	stimulus_presentation	n/a	121	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	146.522816	n/a
 146.522801	0.000000	58609	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	146.522816	n/a
 147.313363	0.000000	58925	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	147.313378	n/a
-147.355300	6.500497	58942	sternberg_trial	n/a	n/a	409	0	0	205	1	0	1	148.35544	150.371627	0.0	0.0	0.0	0.0	147.355316	150.371627	153.038376	153.85581299999998	intervals/trials	15	147.355316	153.855813
+147.355300	6.500497	58942	sternberg_trial	n/a	n/a	409	n/a	n/a	205	1	0	1	148.35544	150.371627	n/a	n/a	n/a	n/a	147.355316	150.371627	153.038376	153.85581299999998	intervals/trials	15	147.355316	153.855813
 147.355300	0.000000	58942	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	147.355316	n/a
 148.355424	0.000000	59342	stimulus_presentation	n/a	179	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	148.355440	n/a
 148.355424	0.000000	59342	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	148.355440	n/a
@@ -232,7 +232,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 174.584226	0.000000	69834	stimulus_presentation	n/a	123	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	174.584242	n/a
 174.584226	0.000000	69834	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	174.584242	n/a
 175.418821	0.000000	70168	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	175.418836	n/a
-175.466633	6.958529	70187	sternberg_trial	n/a	n/a	211	0	0	211	1	1	1	176.43321	178.449459	0.0	0.0	0.0	0.0	175.466648	178.449459	181.016396	182.425177	intervals/trials	18	175.466648	182.425177
+175.466633	6.958529	70187	sternberg_trial	n/a	n/a	211	n/a	n/a	211	1	1	1	176.43321	178.449459	n/a	n/a	n/a	n/a	175.466648	178.449459	181.016396	182.425177	intervals/trials	18	175.466648	182.425177
 175.466633	0.000000	70187	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	175.466648	n/a
 176.433195	0.000000	70573	stimulus_presentation	n/a	68	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	176.433210	n/a
 176.433195	0.000000	70573	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	176.433210	n/a
@@ -270,7 +270,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 203.511684	0.000000	81405	stimulus_presentation	n/a	125	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	203.511699	n/a
 203.511684	0.000000	81405	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	203.511699	n/a
 204.212527	0.000000	81685	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	204.212543	n/a
-204.261184	6.557622	81704	sternberg_trial	n/a	n/a	213	0	0	305	1	0	1	205.21101099999998	207.22726	0.0	0.0	0.0	0.0	204.261199	207.22726	210.04413399999999	210.81882099999999	intervals/trials	21	204.261199	210.818821
+204.261184	6.557622	81704	sternberg_trial	n/a	n/a	213	n/a	n/a	305	1	0	1	205.21101099999998	207.22726	n/a	n/a	n/a	n/a	204.261199	207.22726	210.04413399999999	210.81882099999999	intervals/trials	21	204.261199	210.818821
 204.261184	0.000000	81704	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	204.261199	n/a
 205.210995	0.000000	82084	stimulus_presentation	n/a	70	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	205.211011	n/a
 205.210995	0.000000	82084	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	205.211011	n/a
@@ -364,7 +364,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 275.348405	0.000000	110139	stimulus_presentation	n/a	234	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	275.348421	n/a
 275.348405	0.000000	110139	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	275.348421	n/a
 276.179592	0.000000	110472	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	276.179608	n/a
-276.247404	6.522310	110499	sternberg_trial	n/a	n/a	218	0	0	508	1	0	1	277.297201	279.313513	0.0	0.0	0.0	0.0	276.24742	279.313513	281.980418	282.76973	intervals/trials	28	276.247420	282.769730
+276.247404	6.522310	110499	sternberg_trial	n/a	n/a	218	n/a	n/a	508	1	0	1	277.297201	279.313513	n/a	n/a	n/a	n/a	276.24742	279.313513	281.980418	282.76973	intervals/trials	28	276.247420	282.769730
 276.247404	0.000000	110499	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	276.247420	n/a
 277.297185	0.000000	110919	stimulus_presentation	n/a	75	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	277.297201	n/a
 277.297185	0.000000	110919	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	277.297201	n/a
@@ -374,7 +374,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 281.980402	0.000000	112792	stimulus_presentation	n/a	233	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	281.980418	n/a
 281.980402	0.000000	112792	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	281.980418	n/a
 282.769714	0.000000	113108	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	282.769730	n/a
-282.812777	6.291810	113125	sternberg_trial	n/a	n/a	419	0	0	419	1	1	1	283.796042	285.812385	0.0	0.0	0.0	0.0	282.812793	285.812385	288.445697	289.104603	intervals/trials	29	282.812793	289.104603
+282.812777	6.291810	113125	sternberg_trial	n/a	n/a	419	n/a	n/a	419	1	1	1	283.796042	285.812385	n/a	n/a	n/a	n/a	282.812793	285.812385	288.445697	289.104603	intervals/trials	29	282.812793	289.104603
 282.812777	0.000000	113125	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	282.812793	n/a
 283.796026	0.000000	113518	stimulus_presentation	n/a	189	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	283.796042	n/a
 283.796026	0.000000	113518	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	283.796042	n/a
@@ -384,7 +384,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 288.445681	0.000000	115378	stimulus_presentation	n/a	189	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	288.445697	n/a
 288.445681	0.000000	115378	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	288.445697	n/a
 289.104587	0.000000	115642	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	289.104603	n/a
-289.144743	6.742278	115658	sternberg_trial	n/a	n/a	511	0	0	415	1	0	1	290.24494599999997	292.26097599999997	0.0	0.0	0.0	0.0	289.14475899999996	292.26097599999997	294.91103799999996	295.88703699999996	intervals/trials	30	289.144759	295.887037
+289.144743	6.742278	115658	sternberg_trial	n/a	n/a	511	n/a	n/a	415	1	0	1	290.24494599999997	292.26097599999997	n/a	n/a	n/a	n/a	289.14475899999996	292.26097599999997	294.91103799999996	295.88703699999996	intervals/trials	30	289.144759	295.887037
 289.144743	0.000000	115658	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	289.144759	n/a
 290.244930	0.000000	116098	stimulus_presentation	n/a	236	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	290.244946	n/a
 290.244930	0.000000	116098	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	290.244946	n/a
@@ -394,7 +394,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 294.911022	0.000000	117964	stimulus_presentation	n/a	185	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	294.911038	n/a
 294.911022	0.000000	117964	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	294.911038	n/a
 295.887021	0.000000	118355	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	295.887037	n/a
-295.926896	6.406279	118371	sternberg_trial	n/a	n/a	420	0	0	505	1	0	1	296.910131	298.926411	0.0	0.0	0.0	0.0	295.92691199999996	298.926411	301.54312899999996	302.333191	intervals/trials	31	295.926912	302.333191
+295.926896	6.406279	118371	sternberg_trial	n/a	n/a	420	n/a	n/a	505	1	0	1	296.910131	298.926411	n/a	n/a	n/a	n/a	295.92691199999996	298.926411	301.54312899999996	302.333191	intervals/trials	31	295.926912	302.333191
 295.926896	0.000000	118371	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	295.926912	n/a
 296.910115	0.000000	118764	stimulus_presentation	n/a	190	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	296.910131	n/a
 296.910115	0.000000	118764	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	296.910131	n/a
@@ -404,7 +404,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 301.543113	0.000000	120617	stimulus_presentation	n/a	230	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	301.543129	n/a
 301.543113	0.000000	120617	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	301.543129	n/a
 302.333175	0.000000	120933	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	302.333191	n/a
-302.375550	6.420247	120950	sternberg_trial	n/a	n/a	112	0	0	112	1	1	1	303.442159	305.458596	0.0	0.0	0.0	0.0	302.375566	305.458596	308.175001	308.795813	intervals/trials	32	302.375566	308.795813
+302.375550	6.420247	120950	sternberg_trial	n/a	n/a	112	n/a	n/a	112	1	1	1	303.442159	305.458596	n/a	n/a	n/a	n/a	302.375566	305.458596	308.175001	308.795813	intervals/trials	32	302.375566	308.795813
 302.375550	0.000000	120950	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	302.375566	n/a
 303.442143	0.000000	121377	stimulus_presentation	n/a	12	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	303.442159	n/a
 303.442143	0.000000	121377	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	303.442159	n/a
@@ -428,7 +428,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 318.723450	0.000000	127489	stimulus_presentation	n/a	70	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	318.723466	n/a
 318.723450	0.000000	127489	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	318.723466	n/a
 319.545324	0.000000	127818	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	319.545340	n/a
-319.588981	6.674684	127836	sternberg_trial	n/a	n/a	513	0	0	303	1	0	1	320.688902	322.705495	0.0	0.0	0.0	0.0	319.588997	322.705495	325.4389	326.26368099999996	intervals/trials	34	319.588997	326.263681
+319.588981	6.674684	127836	sternberg_trial	n/a	n/a	513	n/a	n/a	303	1	0	1	320.688902	322.705495	n/a	n/a	n/a	n/a	319.588997	322.705495	325.4389	326.26368099999996	intervals/trials	34	319.588997	326.263681
 319.588981	0.000000	127836	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	319.588997	n/a
 320.688886	0.000000	128276	stimulus_presentation	n/a	238	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	320.688902	n/a
 320.688886	0.000000	128276	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	320.688902	n/a
@@ -438,7 +438,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 325.438884	0.000000	130176	stimulus_presentation	n/a	117	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	325.438900	n/a
 325.438884	0.000000	130176	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	325.438900	n/a
 326.263665	0.000000	130505	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	326.263681	n/a
-326.321197	6.453153	130528	sternberg_trial	n/a	n/a	422	0	0	422	1	1	1	327.354431	329.370618	0.0	0.0	0.0	0.0	326.321213	329.370618	332.153929	332.774366	intervals/trials	35	326.321213	332.774366
+326.321197	6.453153	130528	sternberg_trial	n/a	n/a	422	n/a	n/a	422	1	1	1	327.354431	329.370618	n/a	n/a	n/a	n/a	326.321213	329.370618	332.153929	332.774366	intervals/trials	35	326.321213	332.774366
 326.321197	0.000000	130528	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	326.321213	n/a
 327.354415	0.000000	130942	stimulus_presentation	n/a	192	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	327.354431	n/a
 327.354415	0.000000	130942	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	327.354431	n/a
@@ -448,7 +448,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 332.153913	0.000000	132862	stimulus_presentation	n/a	192	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	332.153929	n/a
 332.153913	0.000000	132862	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	332.153929	n/a
 332.774350	0.000000	133110	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	332.774366	n/a
-332.836600	6.480310	133135	sternberg_trial	n/a	n/a	219	0	0	219	1	1	1	333.869772	335.88595899999996	0.0	0.0	0.0	0.0	332.836616	335.88595899999996	338.619489	339.31692599999997	intervals/trials	36	332.836616	339.316926
+332.836600	6.480310	133135	sternberg_trial	n/a	n/a	219	n/a	n/a	219	1	1	1	333.869772	335.88595899999996	n/a	n/a	n/a	n/a	332.836616	335.88595899999996	338.619489	339.31692599999997	intervals/trials	36	332.836616	339.316926
 332.836600	0.000000	133135	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	332.836616	n/a
 333.869756	0.000000	133548	stimulus_presentation	n/a	76	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	333.869772	n/a
 333.869756	0.000000	133548	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	333.869772	n/a
@@ -458,7 +458,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 338.619473	0.000000	135448	stimulus_presentation	n/a	76	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	338.619489	n/a
 338.619473	0.000000	135448	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	338.619489	n/a
 339.316910	0.000000	135727	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	339.316926	n/a
-339.368566	6.346717	135747	sternberg_trial	n/a	n/a	315	0	0	512	1	0	1	340.51861299999996	342.53495599999997	0.0	0.0	0.0	0.0	339.368582	342.53495599999997	345.168111	345.71529899999996	intervals/trials	37	339.368582	345.715299
+339.368566	6.346717	135747	sternberg_trial	n/a	n/a	315	n/a	n/a	512	1	0	1	340.51861299999996	342.53495599999997	n/a	n/a	n/a	n/a	339.368582	342.53495599999997	345.168111	345.71529899999996	intervals/trials	37	339.368582	345.715299
 339.368566	0.000000	135747	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	339.368582	n/a
 340.518597	0.000000	136207	stimulus_presentation	n/a	129	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	340.518613	n/a
 340.518597	0.000000	136207	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	340.518613	n/a
@@ -468,7 +468,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 345.168095	0.000000	138067	stimulus_presentation	n/a	237	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	345.168111	n/a
 345.168095	0.000000	138067	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	345.168111	n/a
 345.715283	0.000000	138286	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	345.715299	n/a
-345.784126	6.233779	138314	sternberg_trial	n/a	n/a	114	0	0	209	1	0	1	346.800611	348.816985	0.0	0.0	0.0	0.0	345.784142	348.816985	351.433765	352.017921	intervals/trials	38	345.784142	352.017921
+345.784126	6.233779	138314	sternberg_trial	n/a	n/a	114	n/a	n/a	209	1	0	1	346.800611	348.816985	n/a	n/a	n/a	n/a	345.784142	348.816985	351.433765	352.017921	intervals/trials	38	345.784142	352.017921
 345.784126	0.000000	138314	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	345.784142	n/a
 346.800595	0.000000	138720	stimulus_presentation	n/a	14	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	346.800611	n/a
 346.800595	0.000000	138720	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	346.800611	n/a
@@ -478,7 +478,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 351.433749	0.000000	140573	stimulus_presentation	n/a	66	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	351.433765	n/a
 351.433749	0.000000	140573	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	351.433765	n/a
 352.017905	0.000000	140807	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	352.017921	n/a
-352.066155	6.366122	140826	sternberg_trial	n/a	n/a	423	0	0	423	1	1	1	353.149483	355.165638	0.0	0.0	0.0	0.0	352.066171	355.165638	357.78232499999996	358.43229299999996	intervals/trials	39	352.066171	358.432293
+352.066155	6.366122	140826	sternberg_trial	n/a	n/a	423	n/a	n/a	423	1	1	1	353.149483	355.165638	n/a	n/a	n/a	n/a	352.066171	355.165638	357.78232499999996	358.43229299999996	intervals/trials	39	352.066171	358.432293
 352.066155	0.000000	140826	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	352.066171	n/a
 353.149467	0.000000	141260	stimulus_presentation	n/a	193	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	353.149483	n/a
 353.149467	0.000000	141260	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	353.149483	n/a
@@ -488,7 +488,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 357.782309	0.000000	143113	stimulus_presentation	n/a	193	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	357.782325	n/a
 357.782309	0.000000	143113	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	357.782325	n/a
 358.432277	0.000000	143373	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	358.432293	n/a
-358.481652	6.669123	143393	sternberg_trial	n/a	n/a	115	0	0	115	1	1	1	359.631512	361.64788599999997	0.0	0.0	0.0	0.0	358.48166799999996	361.64788599999997	364.447697	365.15079099999997	intervals/trials	40	358.481668	365.150791
+358.481652	6.669123	143393	sternberg_trial	n/a	n/a	115	n/a	n/a	115	1	1	1	359.631512	361.64788599999997	n/a	n/a	n/a	n/a	358.48166799999996	361.64788599999997	364.447697	365.15079099999997	intervals/trials	40	358.481668	365.150791
 358.481652	0.000000	143393	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	358.481668	n/a
 359.631496	0.000000	143853	stimulus_presentation	n/a	15	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	359.631512	n/a
 359.631496	0.000000	143853	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	359.631512	n/a
@@ -498,7 +498,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 364.447681	0.000000	145779	stimulus_presentation	n/a	15	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	364.447697	n/a
 364.447681	0.000000	145779	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	364.447697	n/a
 365.150775	0.000000	146060	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	365.150791	n/a
-365.197056	6.192185	146079	sternberg_trial	n/a	n/a	514	0	0	514	1	1	1	366.230228	368.24641399999996	0.0	0.0	0.0	0.0	365.197072	368.24641399999996	370.86335099999997	371.389257	intervals/trials	41	365.197072	371.389257
+365.197056	6.192185	146079	sternberg_trial	n/a	n/a	514	n/a	n/a	514	1	1	1	366.230228	368.24641399999996	n/a	n/a	n/a	n/a	365.197072	368.24641399999996	370.86335099999997	371.389257	intervals/trials	41	365.197072	371.389257
 365.197056	0.000000	146079	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	365.197072	n/a
 366.230212	0.000000	146492	stimulus_presentation	n/a	239	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	366.230228	n/a
 366.230212	0.000000	146492	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	366.230228	n/a
@@ -564,7 +564,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 414.121724	0.000000	165649	stimulus_presentation	n/a	4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	414.121740	n/a
 414.121724	0.000000	165649	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	414.121740	n/a
 414.819349	0.000000	165928	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	414.819365	n/a
-414.870692	6.682748	165948	sternberg_trial	n/a	n/a	116	0	0	116	1	1	1	416.03730199999995	418.053582	0.0	0.0	0.0	0.0	414.870708	418.053582	420.803831	421.553456	intervals/trials	46	414.870708	421.553456
+414.870692	6.682748	165948	sternberg_trial	n/a	n/a	116	n/a	n/a	116	1	1	1	416.03730199999995	418.053582	n/a	n/a	n/a	n/a	414.870708	418.053582	420.803831	421.553456	intervals/trials	46	414.870708	421.553456
 414.870692	0.000000	165948	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	414.870708	n/a
 416.037286	0.000000	166415	stimulus_presentation	n/a	16	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	416.037302	n/a
 416.037286	0.000000	166415	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	416.037302	n/a
@@ -574,7 +574,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 420.803815	0.000000	168322	stimulus_presentation	n/a	16	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	420.803831	n/a
 420.803815	0.000000	168322	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	420.803831	n/a
 421.553440	0.000000	168621	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	421.553456	n/a
-421.602815	6.444966	168641	sternberg_trial	n/a	n/a	318	0	0	504	1	0	1	422.73607999999996	424.752611	0.0	0.0	0.0	0.0	421.602831	424.752611	427.319141	428.047797	intervals/trials	47	421.602831	428.047797
+421.602815	6.444966	168641	sternberg_trial	n/a	n/a	318	n/a	n/a	504	1	0	1	422.73607999999996	424.752611	n/a	n/a	n/a	n/a	421.602831	424.752611	427.319141	428.047797	intervals/trials	47	421.602831	428.047797
 421.602815	0.000000	168641	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	421.602831	n/a
 422.736064	0.000000	169094	stimulus_presentation	n/a	132	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	422.736080	n/a
 422.736064	0.000000	169094	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	422.736080	n/a
@@ -584,7 +584,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 427.319125	0.000000	170928	stimulus_presentation	n/a	229	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	427.319141	n/a
 427.319125	0.000000	170928	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	427.319141	n/a
 428.047781	0.000000	171219	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	428.047797	n/a
-428.084968	6.505529	171234	sternberg_trial	n/a	n/a	224	0	0	224	1	1	1	429.217984	431.234358	0.0	0.0	0.0	0.0	428.08498399999996	431.234358	433.951357	434.590513	intervals/trials	48	428.084984	434.590513
+428.084968	6.505529	171234	sternberg_trial	n/a	n/a	224	n/a	n/a	224	1	1	1	429.217984	431.234358	n/a	n/a	n/a	n/a	428.08498399999996	431.234358	433.951357	434.590513	intervals/trials	48	428.084984	434.590513
 428.084968	0.000000	171234	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	428.084984	n/a
 429.217968	0.000000	171687	stimulus_presentation	n/a	81	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	429.217984	n/a
 429.217968	0.000000	171687	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	429.217984	n/a
@@ -594,7 +594,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 433.951341	0.000000	173581	stimulus_presentation	n/a	81	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	433.951357	n/a
 433.951341	0.000000	173581	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	433.951357	n/a
 434.590497	0.000000	173836	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	434.590513	n/a
-434.633809	6.483248	173854	sternberg_trial	n/a	n/a	225	0	0	225	1	1	1	435.683637	437.699824	0.0	0.0	0.0	0.0	434.633825	437.699824	440.43341699999996	441.117073	intervals/trials	49	434.633825	441.117073
+434.633809	6.483248	173854	sternberg_trial	n/a	n/a	225	n/a	n/a	225	1	1	1	435.683637	437.699824	n/a	n/a	n/a	n/a	434.633825	437.699824	440.43341699999996	441.117073	intervals/trials	49	434.633825	441.117073
 434.633809	0.000000	173854	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	434.633825	n/a
 435.683621	0.000000	174273	stimulus_presentation	n/a	82	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	435.683637	n/a
 435.683621	0.000000	174273	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	435.683637	n/a
@@ -618,7 +618,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 451.031053	0.000000	180412	stimulus_presentation	n/a	79	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	451.031069	n/a
 451.031053	0.000000	180412	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	451.031069	n/a
 451.738615	0.000000	180695	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	451.738631	n/a
-451.780584	6.820091	180712	sternberg_trial	n/a	n/a	520	0	0	420	1	0	1	452.813943	454.829817	0.0	0.0	0.0	0.0	451.7806	454.829817	457.64678499999997	458.600691	intervals/trials	51	451.780600	458.600691
+451.780584	6.820091	180712	sternberg_trial	n/a	n/a	520	n/a	n/a	420	1	0	1	452.813943	454.829817	n/a	n/a	n/a	n/a	451.7806	454.829817	457.64678499999997	458.600691	intervals/trials	51	451.780600	458.600691
 451.780584	0.000000	180712	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	451.780600	n/a
 452.813927	0.000000	181126	stimulus_presentation	n/a	245	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	452.813943	n/a
 452.813927	0.000000	181126	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	452.813943	n/a
@@ -628,7 +628,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 457.646769	0.000000	183059	stimulus_presentation	n/a	190	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	457.646785	n/a
 457.646769	0.000000	183059	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	457.646785	n/a
 458.600675	0.000000	183440	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	458.600691	n/a
-458.645768	6.465310	183458	sternberg_trial	n/a	n/a	521	0	0	521	1	1	1	459.695722	461.71234599999997	0.0	0.0	0.0	0.0	458.645784	461.71234599999997	464.37875099999997	465.111094	intervals/trials	52	458.645784	465.111094
+458.645768	6.465310	183458	sternberg_trial	n/a	n/a	521	n/a	n/a	521	1	1	1	459.695722	461.71234599999997	n/a	n/a	n/a	n/a	458.645784	461.71234599999997	464.37875099999997	465.111094	intervals/trials	52	458.645784	465.111094
 458.645768	0.000000	183458	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	458.645784	n/a
 459.695706	0.000000	183878	stimulus_presentation	n/a	246	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	459.695722	n/a
 459.695706	0.000000	183878	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	459.695722	n/a
@@ -652,7 +652,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 475.293449	0.000000	190117	stimulus_presentation	n/a	179	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	475.293465	n/a
 475.293449	0.000000	190117	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	475.293465	n/a
 475.940668	0.000000	190376	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	475.940684	n/a
-475.992480	6.378966	190397	sternberg_trial	n/a	n/a	523	0	0	102	1	0	1	477.009058	479.02562	0.0	0.0	0.0	0.0	475.99249599999996	479.02562	481.692275	482.37146199999995	intervals/trials	54	475.992496	482.371462
+475.992480	6.378966	190397	sternberg_trial	n/a	n/a	523	n/a	n/a	102	1	0	1	477.009058	479.02562	n/a	n/a	n/a	n/a	475.99249599999996	479.02562	481.692275	482.37146199999995	intervals/trials	54	475.992496	482.371462
 475.992480	0.000000	190397	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	475.992496	n/a
 477.009042	0.000000	190804	stimulus_presentation	n/a	248	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	477.009058	n/a
 477.009042	0.000000	190804	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	477.009058	n/a
@@ -662,7 +662,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 481.692259	0.000000	192677	stimulus_presentation	n/a	2	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	481.692275	n/a
 481.692259	0.000000	192677	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	481.692275	n/a
 482.371446	0.000000	192949	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	482.371462	n/a
-482.424540	28.691739	192970	sternberg_trial	n/a	n/a	321	0	0	321	1	1	1	483.457899	485.474086	0.0	0.0	0.0	0.0	482.424556	485.474086	488.25749099999996	511.116295	intervals/trials	55	482.424556	511.116295
+482.424540	28.691739	192970	sternberg_trial	n/a	n/a	321	n/a	n/a	321	1	1	1	483.457899	485.474086	n/a	n/a	n/a	n/a	482.424556	485.474086	488.25749099999996	511.116295	intervals/trials	55	482.424556	511.116295
 482.424540	0.000000	192970	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	482.424556	n/a
 483.457883	0.000000	193383	stimulus_presentation	n/a	135	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	483.457899	n/a
 483.457883	0.000000	193383	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	483.457899	n/a
@@ -672,7 +672,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 488.257475	0.000000	195303	stimulus_presentation	n/a	135	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	488.257491	n/a
 488.257475	0.000000	195303	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	488.257491	n/a
 511.116279	0.000000	204447	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	511.116295	n/a
-511.253185	6.597591	204501	sternberg_trial	n/a	n/a	524	0	0	524	1	1	1	512.302294	514.321606	0.0	0.0	0.0	0.0	511.253201	514.321606	517.0686979999999	517.850792	intervals/trials	56	511.253201	517.850792
+511.253185	6.597591	204501	sternberg_trial	n/a	n/a	524	n/a	n/a	524	1	1	1	512.302294	514.321606	n/a	n/a	n/a	n/a	511.253201	514.321606	517.0686979999999	517.850792	intervals/trials	56	511.253201	517.850792
 511.253185	0.000000	204501	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	511.253201	n/a
 512.302278	0.000000	204921	stimulus_presentation	n/a	249	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	512.302294	n/a
 512.302278	0.000000	204921	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	512.302294	n/a
@@ -696,7 +696,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 527.816584	0.000000	211127	stimulus_presentation	n/a	75	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	527.816600	n/a
 527.816584	0.000000	211127	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	527.816600	n/a
 528.552397	0.000000	211421	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	528.552413	n/a
-528.599209	6.511466	211440	sternberg_trial	n/a	n/a	427	0	0	313	1	0	1	529.616037	531.631943	0.0	0.0	0.0	0.0	528.5992249999999	531.631943	534.315473	535.110691	intervals/trials	58	528.599225	535.110691
+528.599209	6.511466	211440	sternberg_trial	n/a	n/a	427	n/a	n/a	313	1	0	1	529.616037	531.631943	n/a	n/a	n/a	n/a	528.5992249999999	531.631943	534.315473	535.110691	intervals/trials	58	528.599225	535.110691
 528.599209	0.000000	211440	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	528.599225	n/a
 529.616021	0.000000	211846	stimulus_presentation	n/a	197	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	529.616037	n/a
 529.616021	0.000000	211846	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	529.616037	n/a
@@ -720,7 +720,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 545.346609	0.000000	218139	stimulus_presentation	n/a	137	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	545.346625	n/a
 545.346609	0.000000	218139	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	545.346625	n/a
 546.196108	0.000000	218478	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	546.196124	n/a
-546.245516	6.732934	218498	sternberg_trial	n/a	n/a	526	0	0	317	1	0	1	547.362186	549.378779	0.0	0.0	0.0	0.0	546.245531	549.378779	552.178528	552.978465	intervals/trials	60	546.245531	552.978465
+546.245516	6.732934	218498	sternberg_trial	n/a	n/a	526	n/a	n/a	317	1	0	1	547.362186	549.378779	n/a	n/a	n/a	n/a	546.245531	549.378779	552.178528	552.978465	intervals/trials	60	546.245531	552.978465
 546.245516	0.000000	218498	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	546.245531	n/a
 547.362170	0.000000	218945	stimulus_presentation	n/a	251	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	547.362186	n/a
 547.362170	0.000000	218945	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	547.362186	n/a
@@ -772,7 +772,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 584.405905	0.000000	233762	stimulus_presentation	n/a	22	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	584.405921	n/a
 584.405905	0.000000	233762	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	584.405921	n/a
 585.147436	0.000000	234059	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	585.147452	n/a
-585.188375	6.453091	234075	sternberg_trial	n/a	n/a	529	0	0	529	1	1	1	586.304889	588.321139	0.0	0.0	0.0	0.0	585.18839	588.321139	590.937856	591.641481	intervals/trials	64	585.188390	591.641481
+585.188375	6.453091	234075	sternberg_trial	n/a	n/a	529	n/a	n/a	529	1	1	1	586.304889	588.321139	n/a	n/a	n/a	n/a	585.18839	588.321139	590.937856	591.641481	intervals/trials	64	585.188390	591.641481
 585.188375	0.000000	234075	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	585.188390	n/a
 586.304873	0.000000	234522	stimulus_presentation	n/a	254	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	586.304889	n/a
 586.304873	0.000000	234522	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	586.304889	n/a
@@ -782,7 +782,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 590.937840	0.000000	236375	stimulus_presentation	n/a	254	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	590.937856	n/a
 590.937840	0.000000	236375	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	590.937856	n/a
 591.641465	0.000000	236657	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	591.641481	n/a
-591.686746	6.337404	236675	sternberg_trial	n/a	n/a	228	0	0	413	1	0	1	592.770387	594.7866359999999	0.0	0.0	0.0	0.0	591.6867619999999	594.7866359999999	597.369948	598.0241659999999	intervals/trials	65	591.686762	598.024166
+591.686746	6.337404	236675	sternberg_trial	n/a	n/a	228	n/a	n/a	413	1	0	1	592.770387	594.7866359999999	n/a	n/a	n/a	n/a	591.6867619999999	594.7866359999999	597.369948	598.0241659999999	intervals/trials	65	591.686762	598.024166
 591.686746	0.000000	236675	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	591.686762	n/a
 592.770372	0.000000	237108	stimulus_presentation	n/a	85	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	592.770387	n/a
 592.770372	0.000000	237108	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	592.770387	n/a
@@ -806,7 +806,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 608.151083	0.000000	243260	stimulus_presentation	n/a	200	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	608.151099	n/a
 608.151083	0.000000	243260	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	608.151099	n/a
 608.901427	0.000000	243561	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	608.901443	n/a
-608.950333	6.429466	243580	sternberg_trial	n/a	n/a	431	0	0	431	1	1	1	610.116974	612.133442	0.0	0.0	0.0	0.0	608.950349	612.133442	614.783253	615.379815	intervals/trials	67	608.950349	615.379815
+608.950333	6.429466	243580	sternberg_trial	n/a	n/a	431	n/a	n/a	431	1	1	1	610.116974	612.133442	n/a	n/a	n/a	n/a	608.950349	612.133442	614.783253	615.379815	intervals/trials	67	608.950349	615.379815
 608.950333	0.000000	243580	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	608.950349	n/a
 610.116959	0.000000	244047	stimulus_presentation	n/a	201	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	610.116974	n/a
 610.116959	0.000000	244047	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	610.116974	n/a
@@ -816,7 +816,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 614.783237	0.000000	245913	stimulus_presentation	n/a	201	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	614.783253	n/a
 614.783237	0.000000	245913	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	614.783253	n/a
 615.379799	0.000000	246152	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	615.379815	n/a
-615.432487	6.473903	246173	sternberg_trial	n/a	n/a	124	0	0	425	1	0	1	616.549002	618.5654079999999	0.0	0.0	0.0	0.0	615.432503	618.5654079999999	621.14875	621.906406	intervals/trials	68	615.432503	621.906406
+615.432487	6.473903	246173	sternberg_trial	n/a	n/a	124	n/a	n/a	425	1	0	1	616.549002	618.5654079999999	n/a	n/a	n/a	n/a	615.432503	618.5654079999999	621.14875	621.906406	intervals/trials	68	615.432503	621.906406
 615.432487	0.000000	246173	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	615.432503	n/a
 616.548986	0.000000	246620	stimulus_presentation	n/a	24	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	616.549002	n/a
 616.548986	0.000000	246620	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	616.549002	n/a
@@ -826,7 +826,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 621.148734	0.000000	248459	stimulus_presentation	n/a	195	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	621.148750	n/a
 621.148734	0.000000	248459	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	621.148750	n/a
 621.906390	0.000000	248763	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	621.906406	n/a
-621.948078	6.468810	248779	sternberg_trial	n/a	n/a	432	0	0	527	1	0	1	623.097812	625.1139989999999	0.0	0.0	0.0	0.0	621.948094	625.1139989999999	627.797592	628.4169039999999	intervals/trials	69	621.948094	628.416904
+621.948078	6.468810	248779	sternberg_trial	n/a	n/a	432	n/a	n/a	527	1	0	1	623.097812	625.1139989999999	n/a	n/a	n/a	n/a	621.948094	625.1139989999999	627.797592	628.4169039999999	intervals/trials	69	621.948094	628.416904
 621.948078	0.000000	248779	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	621.948094	n/a
 623.097796	0.000000	249239	stimulus_presentation	n/a	202	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	623.097812	n/a
 623.097796	0.000000	249239	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	623.097812	n/a
@@ -850,7 +850,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 704.499357	0.000000	281800	stimulus_presentation	n/a	255	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	704.499373	n/a
 704.499357	0.000000	281800	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	704.499373	n/a
 707.630325	0.000000	283052	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	707.630341	n/a
-707.681481	7.243216	283073	sternberg_trial	n/a	n/a	126	0	0	210	1	0	1	708.7480899999999	710.7644329999999	0.0	0.0	0.0	0.0	707.6814969999999	710.7644329999999	713.4979629999999	714.924713	intervals/trials	71	707.681497	714.924713
+707.681481	7.243216	283073	sternberg_trial	n/a	n/a	126	n/a	n/a	210	1	0	1	708.7480899999999	710.7644329999999	n/a	n/a	n/a	n/a	707.6814969999999	710.7644329999999	713.4979629999999	714.924713	intervals/trials	71	707.681497	714.924713
 707.681481	0.000000	283073	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	707.681497	n/a
 708.748074	0.000000	283499	stimulus_presentation	n/a	26	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	708.748090	n/a
 708.748074	0.000000	283499	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	708.748090	n/a
@@ -902,7 +902,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 748.874464	0.000000	299550	stimulus_presentation	n/a	29	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	748.874480	n/a
 748.874464	0.000000	299550	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	748.874480	n/a
 749.844433	0.000000	299938	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	749.844449	n/a
-749.890183	6.592716	299956	sternberg_trial	n/a	n/a	130	0	0	130	1	1	1	751.0068229999999	753.022916	0.0	0.0	0.0	0.0	749.8901989999999	753.022916	755.756415	756.4829149999999	intervals/trials	75	749.890199	756.482915
+749.890183	6.592716	299956	sternberg_trial	n/a	n/a	130	n/a	n/a	130	1	1	1	751.0068229999999	753.022916	n/a	n/a	n/a	n/a	749.8901989999999	753.022916	755.756415	756.4829149999999	intervals/trials	75	749.890199	756.482915
 749.890183	0.000000	299956	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	749.890199	n/a
 751.006807	0.000000	300403	stimulus_presentation	n/a	30	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	751.006823	n/a
 751.006807	0.000000	300403	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	751.006823	n/a
@@ -926,7 +926,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 766.454114	0.000000	306582	stimulus_presentation	n/a	31	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	766.454130	n/a
 766.454114	0.000000	306582	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	766.454130	n/a
 767.104332	0.000000	306842	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	767.104348	n/a
-767.153613	6.653216	306861	sternberg_trial	n/a	n/a	533	0	0	533	1	1	1	768.253598	770.269597	0.0	0.0	0.0	0.0	767.1536289999999	770.269597	772.9695959999999	773.806845	intervals/trials	77	767.153629	773.806845
+767.153613	6.653216	306861	sternberg_trial	n/a	n/a	533	n/a	n/a	533	1	1	1	768.253598	770.269597	n/a	n/a	n/a	n/a	767.1536289999999	770.269597	772.9695959999999	773.806845	intervals/trials	77	767.153629	773.806845
 767.153613	0.000000	306861	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	767.153629	n/a
 768.253582	0.000000	307301	stimulus_presentation	n/a	258	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	768.253598	n/a
 768.253582	0.000000	307301	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	768.253598	n/a
@@ -1006,7 +1006,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 828.376026	0.000000	331350	stimulus_presentation	n/a	21	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	828.376042	n/a
 828.376026	0.000000	331350	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	828.376042	n/a
 829.378120	0.000000	331751	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	829.378136	n/a
-829.441745	6.766497	331777	sternberg_trial	n/a	n/a	331	0	0	410	1	0	1	830.591541	832.6077909999999	0.0	0.0	0.0	0.0	829.4417609999999	832.6077909999999	835.291289	836.208258	intervals/trials	83	829.441761	836.208258
+829.441745	6.766497	331777	sternberg_trial	n/a	n/a	331	n/a	n/a	410	1	0	1	830.591541	832.6077909999999	n/a	n/a	n/a	n/a	829.4417609999999	832.6077909999999	835.291289	836.208258	intervals/trials	83	829.441761	836.208258
 829.441745	0.000000	331777	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	829.441761	n/a
 830.591525	0.000000	332237	stimulus_presentation	n/a	145	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	830.591541	n/a
 830.591525	0.000000	332237	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	830.591541	n/a
@@ -1016,7 +1016,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 835.291273	0.000000	334117	stimulus_presentation	n/a	180	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	835.291289	n/a
 835.291273	0.000000	334117	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	835.291289	n/a
 836.208242	0.000000	334483	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	836.208258	n/a
-836.256992	16.923618	334503	sternberg_trial	n/a	n/a	537	0	0	128	1	0	1	837.357039	839.373444	0.0	0.0	0.0	0.0	836.2570079999999	839.373444	841.990068	853.180626	intervals/trials	84	836.257008	853.180626
+836.256992	16.923618	334503	sternberg_trial	n/a	n/a	537	n/a	n/a	128	1	0	1	837.357039	839.373444	n/a	n/a	n/a	n/a	836.2570079999999	839.373444	841.990068	853.180626	intervals/trials	84	836.257008	853.180626
 836.256992	0.000000	334503	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	836.257008	n/a
 837.357023	0.000000	334943	stimulus_presentation	n/a	262	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	837.357039	n/a
 837.357023	0.000000	334943	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	837.357039	n/a
@@ -1026,7 +1026,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 841.990052	0.000000	336796	stimulus_presentation	n/a	28	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	841.990068	n/a
 841.990052	0.000000	336796	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	841.990068	n/a
 853.180610	0.000000	341272	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	853.180626	n/a
-853.237173	6.677934	341295	sternberg_trial	n/a	n/a	135	0	0	314	1	0	1	854.203813	856.2199059999999	0.0	0.0	0.0	0.0	853.237189	856.2199059999999	858.9196549999999	859.915123	intervals/trials	85	853.237189	859.915123
+853.237173	6.677934	341295	sternberg_trial	n/a	n/a	135	n/a	n/a	314	1	0	1	854.203813	856.2199059999999	n/a	n/a	n/a	n/a	853.237189	856.2199059999999	858.9196549999999	859.915123	intervals/trials	85	853.237189	859.915123
 853.237173	0.000000	341295	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	853.237189	n/a
 854.203797	0.000000	341682	stimulus_presentation	n/a	35	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	854.203813	n/a
 854.203797	0.000000	341682	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	854.203813	n/a
@@ -1036,7 +1036,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 858.919639	0.000000	343568	stimulus_presentation	n/a	128	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	858.919655	n/a
 858.919639	0.000000	343568	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	858.919655	n/a
 859.915107	0.000000	343966	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	859.915123	n/a
-859.969232	7.079872	343988	sternberg_trial	n/a	n/a	436	0	0	135	1	0	1	861.035748	863.0522159999999	0.0	0.0	0.0	0.0	859.969248	863.0522159999999	865.768683	867.04912	intervals/trials	86	859.969248	867.049120
+859.969232	7.079872	343988	sternberg_trial	n/a	n/a	436	n/a	n/a	135	1	0	1	861.035748	863.0522159999999	n/a	n/a	n/a	n/a	859.969248	863.0522159999999	865.768683	867.04912	intervals/trials	86	859.969248	867.049120
 859.969232	0.000000	343988	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	859.969248	n/a
 861.035732	0.000000	344414	stimulus_presentation	n/a	206	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	861.035748	n/a
 861.035732	0.000000	344414	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	861.035748	n/a
@@ -1046,7 +1046,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 865.768667	0.000000	346307	stimulus_presentation	n/a	35	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	865.768683	n/a
 865.768667	0.000000	346307	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	865.768683	n/a
 867.049104	0.000000	346820	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	867.049120	n/a
-867.101104	6.538498	346840	sternberg_trial	n/a	n/a	332	0	0	518	1	0	1	868.184495	870.200619	0.0	0.0	0.0	0.0	867.1011199999999	870.200619	872.7671489999999	873.6396179999999	intervals/trials	87	867.101120	873.639618
+867.101104	6.538498	346840	sternberg_trial	n/a	n/a	332	n/a	n/a	518	1	0	1	868.184495	870.200619	n/a	n/a	n/a	n/a	867.1011199999999	870.200619	872.7671489999999	873.6396179999999	intervals/trials	87	867.101120	873.639618
 867.101104	0.000000	346840	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	867.101120	n/a
 868.184479	0.000000	347274	stimulus_presentation	n/a	146	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	868.184495	n/a
 868.184479	0.000000	347274	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	868.184495	n/a
@@ -1056,7 +1056,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 872.767133	0.000000	349107	stimulus_presentation	n/a	243	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	872.767149	n/a
 872.767133	0.000000	349107	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	872.767149	n/a
 873.639602	0.000000	349456	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	873.639618	n/a
-873.683102	6.290997	349473	sternberg_trial	n/a	n/a	136	0	0	136	1	1	1	874.666336	876.6827099999999	0.0	0.0	0.0	0.0	873.6831179999999	876.6827099999999	879.4159589999999	879.974115	intervals/trials	88	873.683118	879.974115
+873.683102	6.290997	349473	sternberg_trial	n/a	n/a	136	n/a	n/a	136	1	1	1	874.666336	876.6827099999999	n/a	n/a	n/a	n/a	873.6831179999999	876.6827099999999	879.4159589999999	879.974115	intervals/trials	88	873.683118	879.974115
 873.683102	0.000000	349473	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	873.683118	n/a
 874.666320	0.000000	349867	stimulus_presentation	n/a	36	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	874.666336	n/a
 874.666320	0.000000	349867	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	874.666336	n/a
@@ -1094,7 +1094,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 901.078466	0.000000	360431	stimulus_presentation	n/a	69	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	901.078482	n/a
 901.078466	0.000000	360431	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	901.078482	n/a
 901.841028	0.000000	360736	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	901.841044	n/a
-901.877840	6.713654	360751	sternberg_trial	n/a	n/a	139	0	0	427	1	0	1	902.977669	904.993918	0.0	0.0	0.0	0.0	901.877856	904.993918	907.777292	908.59151	intervals/trials	91	901.877856	908.591510
+901.877840	6.713654	360751	sternberg_trial	n/a	n/a	139	n/a	n/a	427	1	0	1	902.977669	904.993918	n/a	n/a	n/a	n/a	901.877856	904.993918	907.777292	908.59151	intervals/trials	91	901.877856	908.591510
 901.877840	0.000000	360751	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	901.877856	n/a
 902.977653	0.000000	361191	stimulus_presentation	n/a	39	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	902.977669	n/a
 902.977653	0.000000	361191	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	902.977669	n/a
@@ -1118,7 +1118,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 918.608459	0.000000	367443	stimulus_presentation	n/a	77	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	918.608475	n/a
 918.608459	0.000000	367443	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	918.608475	n/a
 919.404990	0.000000	367762	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	919.405006	n/a
-919.457708	6.489779	367783	sternberg_trial	n/a	n/a	238	0	0	513	1	0	1	920.507943	922.523817	0.0	0.0	0.0	0.0	919.457724	922.523817	925.0906279999999	925.947503	intervals/trials	93	919.457724	925.947503
+919.457708	6.489779	367783	sternberg_trial	n/a	n/a	238	n/a	n/a	513	1	0	1	920.507943	922.523817	n/a	n/a	n/a	n/a	919.457724	922.523817	925.0906279999999	925.947503	intervals/trials	93	919.457724	925.947503
 919.457708	0.000000	367783	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	919.457724	n/a
 920.507927	0.000000	368203	stimulus_presentation	n/a	95	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	920.507943	n/a
 920.507927	0.000000	368203	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	920.507943	n/a
@@ -1128,7 +1128,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 925.090612	0.000000	370036	stimulus_presentation	n/a	238	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	925.090628	n/a
 925.090612	0.000000	370036	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	925.090628	n/a
 925.947487	0.000000	370379	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	925.947503	n/a
-925.989737	6.596154	370396	sternberg_trial	n/a	n/a	438	0	0	312	1	0	1	927.073284	929.089564	0.0	0.0	0.0	0.0	925.989753	929.089564	931.7059069999999	932.5859069999999	intervals/trials	94	925.989753	932.585907
+925.989737	6.596154	370396	sternberg_trial	n/a	n/a	438	n/a	n/a	312	1	0	1	927.073284	929.089564	n/a	n/a	n/a	n/a	925.989753	929.089564	931.7059069999999	932.5859069999999	intervals/trials	94	925.989753	932.585907
 925.989737	0.000000	370396	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	925.989753	n/a
 927.073268	0.000000	370829	stimulus_presentation	n/a	208	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	927.073284	n/a
 927.073268	0.000000	370829	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	927.073284	n/a
@@ -1180,7 +1180,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 964.616472	0.000000	385847	stimulus_presentation	n/a	97	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	964.616488	n/a
 964.616472	0.000000	385847	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	964.616488	n/a
 965.346346	0.000000	386139	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	965.346362	n/a
-965.398971	6.457935	386160	sternberg_trial	n/a	n/a	338	0	0	338	1	1	1	966.5157059999999	968.531673	0.0	0.0	0.0	0.0	965.3989869999999	968.531673	971.1821719999999	971.8569219999999	intervals/trials	98	965.398987	971.856922
+965.398971	6.457935	386160	sternberg_trial	n/a	n/a	338	n/a	n/a	338	1	1	1	966.5157059999999	968.531673	n/a	n/a	n/a	n/a	965.3989869999999	968.531673	971.1821719999999	971.8569219999999	intervals/trials	98	965.398987	971.856922
 965.398971	0.000000	386160	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	965.398987	n/a
 966.515690	0.000000	386606	stimulus_presentation	n/a	152	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	966.515706	n/a
 966.515690	0.000000	386606	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	966.515706	n/a
@@ -1204,7 +1204,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 982.213027	0.000000	392885	stimulus_presentation	n/a	210	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	982.213043	n/a
 982.213027	0.000000	392885	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	982.213043	n/a
 982.830245	0.000000	393132	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	982.830261	n/a
-982.879058	6.317716	393152	sternberg_trial	n/a	n/a	144	0	0	144	1	1	1	984.012667	986.028479	0.0	0.0	0.0	0.0	982.879074	986.028479	988.578665	989.19679	intervals/trials	100	982.879074	989.196790
+982.879058	6.317716	393152	sternberg_trial	n/a	n/a	144	n/a	n/a	144	1	1	1	984.012667	986.028479	n/a	n/a	n/a	n/a	982.879074	986.028479	988.578665	989.19679	intervals/trials	100	982.879074	989.196790
 982.879058	0.000000	393152	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	982.879074	n/a
 984.012651	0.000000	393605	stimulus_presentation	n/a	44	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	984.012667	n/a
 984.012651	0.000000	393605	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	984.012667	n/a
@@ -1228,7 +1228,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 999.226364	0.000000	399691	stimulus_presentation	n/a	204	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	999.226380	n/a
 999.226364	0.000000	399691	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	999.226380	n/a
 1000.026332	0.000000	400011	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1000.026348	n/a
-1000.075614	6.445247	400030	sternberg_trial	n/a	n/a	441	0	0	441	1	1	1	1001.0425349999999	1003.058535	0.0	0.0	0.0	0.0	1000.0756299999999	1003.058535	1005.7085649999999	1006.5208769999999	intervals/trials	102	1000.075630	1006.520877
+1000.075614	6.445247	400030	sternberg_trial	n/a	n/a	441	n/a	n/a	441	1	1	1	1001.0425349999999	1003.058535	n/a	n/a	n/a	n/a	1000.0756299999999	1003.058535	1005.7085649999999	1006.5208769999999	intervals/trials	102	1000.075630	1006.520877
 1000.075614	0.000000	400030	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1000.075630	n/a
 1001.042519	0.000000	400417	stimulus_presentation	n/a	211	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1001.042535	n/a
 1001.042519	0.000000	400417	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1001.042535	n/a
@@ -1280,7 +1280,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1038.052223	0.000000	415221	stimulus_presentation	n/a	42	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1038.052239	n/a
 1038.052223	0.000000	415221	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1038.052239	n/a
 1038.769317	0.000000	415508	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1038.769333	n/a
-1038.818067	6.429778	415527	sternberg_trial	n/a	n/a	243	0	0	316	1	0	1	1039.851739	1041.867863	0.0	0.0	0.0	0.0	1038.818083	1041.867863	1044.434487	1045.247861	intervals/trials	106	1038.818083	1045.247861
+1038.818067	6.429778	415527	sternberg_trial	n/a	n/a	243	n/a	n/a	316	1	0	1	1039.851739	1041.867863	n/a	n/a	n/a	n/a	1038.818083	1041.867863	1044.434487	1045.247861	intervals/trials	106	1038.818083	1045.247861
 1038.818067	0.000000	415527	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1038.818083	n/a
 1039.851723	0.000000	415941	stimulus_presentation	n/a	100	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1039.851739	n/a
 1039.851723	0.000000	415941	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1039.851739	n/a
@@ -1304,7 +1304,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1055.415466	0.000000	422166	stimulus_presentation	n/a	46	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1055.415482	n/a
 1055.415466	0.000000	422166	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1055.415482	n/a
 1056.237592	0.000000	422495	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1056.237607	n/a
-1056.281591	6.674122	422513	sternberg_trial	n/a	n/a	343	0	0	343	1	1	1	1057.46495	1059.481106	0.0	0.0	0.0	0.0	1056.281607	1059.481106	1062.297573	1062.955729	intervals/trials	108	1056.281607	1062.955729
+1056.281591	6.674122	422513	sternberg_trial	n/a	n/a	343	n/a	n/a	343	1	1	1	1057.46495	1059.481106	n/a	n/a	n/a	n/a	1056.281607	1059.481106	1062.297573	1062.955729	intervals/trials	108	1056.281607	1062.955729
 1056.281591	0.000000	422513	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1056.281607	n/a
 1057.464935	0.000000	422986	stimulus_presentation	n/a	157	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1057.464950	n/a
 1057.464935	0.000000	422986	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1057.464950	n/a
@@ -1356,7 +1356,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1094.041702	0.000000	437617	stimulus_presentation	n/a	151	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1094.041717	n/a
 1094.041702	0.000000	437617	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1094.041717	n/a
 1094.916264	0.000000	437967	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1094.916279	n/a
-1094.957825	6.996748	437983	sternberg_trial	n/a	n/a	149	0	0	149	1	1	0	1095.990841	1098.007059	0.0	0.0	0.0	0.0	1094.957841	1098.007059	1100.790433	1101.954589	intervals/trials	112	1094.957841	1101.954589
+1094.957825	6.996748	437983	sternberg_trial	n/a	n/a	149	n/a	n/a	149	1	1	0	1095.990841	1098.007059	n/a	n/a	n/a	n/a	1094.957841	1098.007059	1100.790433	1101.954589	intervals/trials	112	1094.957841	1101.954589
 1094.957825	0.000000	437983	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1094.957841	n/a
 1095.990826	0.000000	438396	stimulus_presentation	n/a	49	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1095.990841	n/a
 1095.990826	0.000000	438396	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1095.990841	n/a
@@ -1422,7 +1422,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1146.032086	0.000000	458413	stimulus_presentation	n/a	19	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1146.032102	n/a
 1146.032086	0.000000	458413	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1146.032102	n/a
 1146.776492	0.000000	458711	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1146.776508	n/a
-1146.814430	6.408310	458726	sternberg_trial	n/a	n/a	248	0	0	248	1	1	1	1147.79757	1149.813913	0.0	0.0	0.0	0.0	1146.8144459999999	1149.813913	1152.414006	1153.222756	intervals/trials	117	1146.814446	1153.222756
+1146.814430	6.408310	458726	sternberg_trial	n/a	n/a	248	n/a	n/a	248	1	1	1	1147.79757	1149.813913	n/a	n/a	n/a	n/a	1146.8144459999999	1149.813913	1152.414006	1153.222756	intervals/trials	117	1146.814446	1153.222756
 1146.814430	0.000000	458726	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1146.814446	n/a
 1147.797554	0.000000	459119	stimulus_presentation	n/a	105	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1147.797570	n/a
 1147.797554	0.000000	459119	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1147.797570	n/a
@@ -1432,7 +1432,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1152.413990	0.000000	460966	stimulus_presentation	n/a	105	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1152.414006	n/a
 1152.413990	0.000000	460966	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1152.414006	n/a
 1153.222740	0.000000	461289	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1153.222756	n/a
-1153.263083	6.310154	461305	sternberg_trial	n/a	n/a	550	0	0	245	1	0	1	1154.312974	1156.329504	0.0	0.0	0.0	0.0	1153.263099	1156.329504	1158.912847	1159.573253	intervals/trials	118	1153.263099	1159.573253
+1153.263083	6.310154	461305	sternberg_trial	n/a	n/a	550	n/a	n/a	245	1	0	1	1154.312974	1156.329504	n/a	n/a	n/a	n/a	1153.263099	1156.329504	1158.912847	1159.573253	intervals/trials	118	1153.263099	1159.573253
 1153.263083	0.000000	461305	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1153.263099	n/a
 1154.312958	0.000000	461725	stimulus_presentation	n/a	275	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1154.312974	n/a
 1154.312958	0.000000	461725	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1154.312974	n/a
@@ -1456,7 +1456,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1169.510828	0.000000	467804	stimulus_presentation	n/a	106	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1169.510843	n/a
 1169.510828	0.000000	467804	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1169.510843	n/a
 1170.866764	0.000000	468347	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1170.866780	n/a
-1170.909795	6.547279	468364	sternberg_trial	n/a	n/a	449	0	0	449	1	1	1	1172.0262169999999	1174.042685	0.0	0.0	0.0	0.0	1170.909811	1174.042685	1176.7092149999999	1177.4570899999999	intervals/trials	120	1170.909811	1177.457090
+1170.909795	6.547279	468364	sternberg_trial	n/a	n/a	449	n/a	n/a	449	1	1	1	1172.0262169999999	1174.042685	n/a	n/a	n/a	n/a	1170.909811	1174.042685	1176.7092149999999	1177.4570899999999	intervals/trials	120	1170.909811	1177.457090
 1170.909795	0.000000	468364	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1170.909811	n/a
 1172.026201	0.000000	468810	stimulus_presentation	n/a	219	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1172.026217	n/a
 1172.026201	0.000000	468810	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1172.026217	n/a
@@ -1466,7 +1466,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1176.709199	0.000000	470684	stimulus_presentation	n/a	219	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1176.709215	n/a
 1176.709199	0.000000	470684	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1176.709215	n/a
 1177.457074	0.000000	470983	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1177.457090	n/a
-1177.508386	6.523154	471003	sternberg_trial	n/a	n/a	450	0	0	450	1	1	1	1178.691808	1180.70787	0.0	0.0	0.0	0.0	1177.508402	1180.70787	1183.357775	1184.031556	intervals/trials	121	1177.508402	1184.031556
+1177.508386	6.523154	471003	sternberg_trial	n/a	n/a	450	n/a	n/a	450	1	1	1	1178.691808	1180.70787	n/a	n/a	n/a	n/a	1177.508402	1180.70787	1183.357775	1184.031556	intervals/trials	121	1177.508402	1184.031556
 1177.508386	0.000000	471003	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1177.508402	n/a
 1178.691793	0.000000	471477	stimulus_presentation	n/a	220	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1178.691808	n/a
 1178.691793	0.000000	471477	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1178.691808	n/a
@@ -1490,7 +1490,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1193.939192	0.000000	477576	stimulus_presentation	n/a	53	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1193.939208	n/a
 1193.939192	0.000000	477576	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1193.939208	n/a
 1194.509161	0.000000	477804	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1194.509176	n/a
-1194.538161	6.673404	477815	sternberg_trial	n/a	n/a	452	0	0	242	1	0	1	1195.655332	1197.671363	0.0	0.0	0.0	0.0	1194.538176	1197.671363	1200.4380489999999	1201.21158	intervals/trials	123	1194.538176	1201.211580
+1194.538161	6.673404	477815	sternberg_trial	n/a	n/a	452	n/a	n/a	242	1	0	1	1195.655332	1197.671363	n/a	n/a	n/a	n/a	1194.538176	1197.671363	1200.4380489999999	1201.21158	intervals/trials	123	1194.538176	1201.211580
 1194.538161	0.000000	477815	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1194.538176	n/a
 1195.655317	0.000000	478262	stimulus_presentation	n/a	222	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1195.655332	n/a
 1195.655317	0.000000	478262	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1195.655332	n/a
@@ -1500,7 +1500,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1200.438033	0.000000	480175	stimulus_presentation	n/a	99	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1200.438049	n/a
 1200.438033	0.000000	480175	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1200.438049	n/a
 1201.211564	0.000000	480485	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1201.211580	n/a
-1201.253877	6.372184	480502	sternberg_trial	n/a	n/a	154	0	0	528	1	0	1	1202.3540799999998	1204.3702349999999	0.0	0.0	0.0	0.0	1201.2538929999998	1204.3702349999999	1206.986671	1207.626077	intervals/trials	124	1201.253893	1207.626077
+1201.253877	6.372184	480502	sternberg_trial	n/a	n/a	154	n/a	n/a	528	1	0	1	1202.3540799999998	1204.3702349999999	n/a	n/a	n/a	n/a	1201.2538929999998	1204.3702349999999	1206.986671	1207.626077	intervals/trials	124	1201.253893	1207.626077
 1201.253877	0.000000	480502	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1201.253893	n/a
 1202.354064	0.000000	480942	stimulus_presentation	n/a	54	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1202.354080	n/a
 1202.354064	0.000000	480942	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1202.354080	n/a
@@ -1510,7 +1510,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1206.986655	0.000000	482795	stimulus_presentation	n/a	253	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1206.986671	n/a
 1206.986655	0.000000	482795	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1206.986671	n/a
 1207.626061	0.000000	483050	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1207.626077	n/a
-1207.652593	6.899841	483061	sternberg_trial	n/a	n/a	350	0	0	350	1	1	1	1208.735858	1210.752232	0.0	0.0	0.0	0.0	1207.652609	1210.752232	1213.452325	1214.55245	intervals/trials	125	1207.652609	1214.552450
+1207.652593	6.899841	483061	sternberg_trial	n/a	n/a	350	n/a	n/a	350	1	1	1	1208.735858	1210.752232	n/a	n/a	n/a	n/a	1207.652609	1210.752232	1213.452325	1214.55245	intervals/trials	125	1207.652609	1214.552450
 1207.652593	0.000000	483061	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1207.652609	n/a
 1208.735842	0.000000	483494	stimulus_presentation	n/a	164	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1208.735858	n/a
 1208.735842	0.000000	483494	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1208.735858	n/a
@@ -1520,7 +1520,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1213.452309	0.000000	485381	stimulus_presentation	n/a	164	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1213.452325	n/a
 1213.452309	0.000000	485381	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1213.452325	n/a
 1214.552434	0.000000	485821	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1214.552450	n/a
-1214.601340	6.541685	485841	sternberg_trial	n/a	n/a	351	0	0	351	1	1	1	1215.668105	1217.684198	0.0	0.0	0.0	0.0	1214.601356	1217.684198	1220.484541	1221.143041	intervals/trials	126	1214.601356	1221.143041
+1214.601340	6.541685	485841	sternberg_trial	n/a	n/a	351	n/a	n/a	351	1	1	1	1215.668105	1217.684198	n/a	n/a	n/a	n/a	1214.601356	1217.684198	1220.484541	1221.143041	intervals/trials	126	1214.601356	1221.143041
 1214.601340	0.000000	485841	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1214.601356	n/a
 1215.668089	0.000000	486267	stimulus_presentation	n/a	165	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1215.668105	n/a
 1215.668089	0.000000	486267	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1215.668105	n/a
@@ -1530,7 +1530,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1220.484526	0.000000	488194	stimulus_presentation	n/a	165	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1220.484541	n/a
 1220.484526	0.000000	488194	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1220.484541	n/a
 1221.143026	0.000000	488457	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1221.143041	n/a
-1221.183431	6.342091	488473	sternberg_trial	n/a	n/a	155	0	0	551	1	0	1	1222.116728	1224.133071	0.0	0.0	0.0	0.0	1221.183447	1224.133071	1226.766414	1227.5255379999999	intervals/trials	127	1221.183447	1227.525538
+1221.183431	6.342091	488473	sternberg_trial	n/a	n/a	155	n/a	n/a	551	1	0	1	1222.116728	1224.133071	n/a	n/a	n/a	n/a	1221.183447	1224.133071	1226.766414	1227.5255379999999	intervals/trials	127	1221.183447	1227.525538
 1221.183431	0.000000	488473	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1221.183447	n/a
 1222.116712	0.000000	488847	stimulus_presentation	n/a	55	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1222.116728	n/a
 1222.116712	0.000000	488847	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1222.116728	n/a
@@ -1554,7 +1554,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1237.430518	0.000000	494972	stimulus_presentation	n/a	149	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1237.430534	n/a
 1237.430518	0.000000	494972	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1237.430534	n/a
 1238.274956	0.000000	495310	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1238.274971	n/a
-1238.296549	6.712810	495319	sternberg_trial	n/a	n/a	352	0	0	352	1	1	1	1239.43019	1241.4466579999998	0.0	0.0	0.0	0.0	1238.2965649999999	1241.4466579999998	1244.162875	1245.0093749999999	intervals/trials	129	1238.296565	1245.009375
+1238.296549	6.712810	495319	sternberg_trial	n/a	n/a	352	n/a	n/a	352	1	1	1	1239.43019	1241.4466579999998	n/a	n/a	n/a	n/a	1238.2965649999999	1241.4466579999998	1244.162875	1245.0093749999999	intervals/trials	129	1238.296565	1245.009375
 1238.296549	0.000000	495319	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1238.296565	n/a
 1239.430175	0.000000	495772	stimulus_presentation	n/a	166	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1239.430190	n/a
 1239.430175	0.000000	495772	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1239.430190	n/a
@@ -1564,7 +1564,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1244.162859	0.000000	497665	stimulus_presentation	n/a	166	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1244.162875	n/a
 1244.162859	0.000000	497665	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1244.162875	n/a
 1245.009359	0.000000	498004	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1245.009375	n/a
-1245.062140	6.777685	498025	sternberg_trial	n/a	n/a	251	0	0	428	1	0	1	1246.245437	1248.261624	0.0	0.0	0.0	0.0	1245.062156	1248.261624	1250.961591	1251.839841	intervals/trials	130	1245.062156	1251.839841
+1245.062140	6.777685	498025	sternberg_trial	n/a	n/a	251	n/a	n/a	428	1	0	1	1246.245437	1248.261624	n/a	n/a	n/a	n/a	1245.062156	1248.261624	1250.961591	1251.839841	intervals/trials	130	1245.062156	1251.839841
 1245.062140	0.000000	498025	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1245.062156	n/a
 1246.245422	0.000000	498498	stimulus_presentation	n/a	108	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1246.245437	n/a
 1246.245422	0.000000	498498	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1246.245437	n/a
@@ -1588,7 +1588,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1261.926166	0.000000	504770	stimulus_presentation	n/a	263	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1261.926181	n/a
 1261.926166	0.000000	504770	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1261.926181	n/a
 1262.685321	0.000000	505074	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1262.685337	n/a
-1262.725633	6.470123	505090	sternberg_trial	n/a	n/a	354	0	0	536	1	0	1	1263.758867	1265.775273	0.0	0.0	0.0	0.0	1262.725649	1265.775273	1268.4417409999999	1269.195772	intervals/trials	132	1262.725649	1269.195772
+1262.725633	6.470123	505090	sternberg_trial	n/a	n/a	354	n/a	n/a	536	1	0	1	1263.758867	1265.775273	n/a	n/a	n/a	n/a	1262.725649	1265.775273	1268.4417409999999	1269.195772	intervals/trials	132	1262.725649	1269.195772
 1262.725633	0.000000	505090	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1262.725649	n/a
 1263.758851	0.000000	505504	stimulus_presentation	n/a	168	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1263.758867	n/a
 1263.758851	0.000000	505504	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1263.758867	n/a
@@ -1598,7 +1598,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1268.441725	0.000000	507377	stimulus_presentation	n/a	261	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1268.441741	n/a
 1268.441725	0.000000	507377	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1268.441741	n/a
 1269.195757	0.000000	507678	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1269.195772	n/a
-1269.241037	6.641153	507696	sternberg_trial	n/a	n/a	355	0	0	216	1	0	1	1270.324115	1272.340614	0.0	0.0	0.0	0.0	1269.241053	1272.340614	1274.9903319999999	1275.882206	intervals/trials	133	1269.241053	1275.882206
+1269.241037	6.641153	507696	sternberg_trial	n/a	n/a	355	n/a	n/a	216	1	0	1	1270.324115	1272.340614	n/a	n/a	n/a	n/a	1269.241053	1272.340614	1274.9903319999999	1275.882206	intervals/trials	133	1269.241053	1275.882206
 1269.241037	0.000000	507696	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1269.241053	n/a
 1270.324099	0.000000	508130	stimulus_presentation	n/a	169	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1270.324115	n/a
 1270.324099	0.000000	508130	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1270.324115	n/a
@@ -1622,7 +1622,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1285.738593	0.000000	514295	stimulus_presentation	n/a	56	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1285.738609	n/a
 1285.738593	0.000000	514295	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1285.738609	n/a
 1286.919936	0.000000	514768	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1286.919952	n/a
-1286.970905	6.475278	514788	sternberg_trial	n/a	n/a	554	0	0	554	1	1	1	1288.020951	1290.037326	0.0	0.0	0.0	0.0	1286.9709209999999	1290.037326	1292.787106	1293.446199	intervals/trials	135	1286.970921	1293.446199
+1286.970905	6.475278	514788	sternberg_trial	n/a	n/a	554	n/a	n/a	554	1	1	1	1288.020951	1290.037326	n/a	n/a	n/a	n/a	1286.9709209999999	1290.037326	1292.787106	1293.446199	intervals/trials	135	1286.970921	1293.446199
 1286.970905	0.000000	514788	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1286.970921	n/a
 1288.020935	0.000000	515208	stimulus_presentation	n/a	279	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1288.020951	n/a
 1288.020935	0.000000	515208	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1288.020951	n/a
@@ -1632,7 +1632,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1292.787090	0.000000	517115	stimulus_presentation	n/a	279	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1292.787106	n/a
 1292.787090	0.000000	517115	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1292.787106	n/a
 1293.446183	0.000000	517378	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1293.446199	n/a
-1293.486215	6.550872	517394	sternberg_trial	n/a	n/a	254	0	0	254	1	1	1	1294.6194799999998	1296.6358229999998	0.0	0.0	0.0	0.0	1293.4862309999999	1296.6358229999998	1299.319166	1300.037103	intervals/trials	136	1293.486231	1300.037103
+1293.486215	6.550872	517394	sternberg_trial	n/a	n/a	254	n/a	n/a	254	1	1	1	1294.6194799999998	1296.6358229999998	n/a	n/a	n/a	n/a	1293.4862309999999	1296.6358229999998	1299.319166	1300.037103	intervals/trials	136	1293.486231	1300.037103
 1293.486215	0.000000	517394	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1293.486231	n/a
 1294.619464	0.000000	517848	stimulus_presentation	n/a	111	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1294.619480	n/a
 1294.619464	0.000000	517848	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1294.619480	n/a
@@ -1670,7 +1670,7 @@ onset	duration	sample	trial_type	value	stimulus_index	PicIDs_Encoding1	PicIDs_En
 1320.865110	0.000000	528346	stimulus_presentation	n/a	57	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1320.865126	n/a
 1320.865110	0.000000	528346	ttl	7	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1320.865126	n/a
 1321.631609	0.000000	528653	ttl	8	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1321.631625	n/a
-1321.680828	6.669216	528672	sternberg_trial	n/a	n/a	257	0	0	327	1	0	1	1322.781094	1324.7970619999999	0.0	0.0	0.0	0.0	1321.680844	1324.7970619999999	1327.480529	1328.35006	intervals/trials	139	1321.680844	1328.350060
+1321.680828	6.669216	528672	sternberg_trial	n/a	n/a	257	n/a	n/a	327	1	0	1	1322.781094	1324.7970619999999	n/a	n/a	n/a	n/a	1321.680844	1324.7970619999999	1327.480529	1328.35006	intervals/trials	139	1321.680844	1328.350060
 1321.680828	0.000000	528672	ttl	11	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1321.680844	n/a
 1322.781078	0.000000	529112	stimulus_presentation	n/a	114	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1322.781094	n/a
 1322.781078	0.000000	529112	ttl	1	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a	1322.781094	n/a
