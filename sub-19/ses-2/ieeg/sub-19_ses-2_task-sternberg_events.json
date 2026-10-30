@@ -43,10 +43,10 @@
     "Description": "Source NWB column copied verbatim. Source description: Picture ID for Enc1 loads."
   },
   "PicIDs_Encoding2": {
-    "Description": "Source NWB column copied verbatim. Source description: Picture ID for Enc2 loads."
+    "Description": "Source NWB column copied verbatim. Source description: Picture ID for Enc2 loads. For load-1 trials the source stores 0 in this column (an unused slot); since 30 Oct 2026 it is written n/a (code/fix-20261030_load1_padding_na.py)."
   },
   "PicIDs_Encoding3": {
-    "Description": "Source NWB column copied verbatim. Source description: Picture ID for Enc1 loads."
+    "Description": "Source NWB column copied verbatim. Source description: Picture ID for Enc1 loads. For load-1 trials the source stores 0 in this column (an unused slot); since 30 Oct 2026 it is written n/a (code/fix-20261030_load1_padding_na.py)."
   },
   "PicIDs_Probe": {
     "Description": "Source NWB column copied verbatim. Source description: Picture ID for Probe loads."
@@ -67,16 +67,16 @@
     "Description": "Source NWB column copied verbatim. Source description: End times of picture #1 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
   },
   "timestamps_Encoding2": {
-    "Description": "Source NWB column copied verbatim. Source description: Start times of picture #2 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+    "Description": "Source NWB column copied verbatim. Source description: Start times of picture #2 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time). For load-1 trials the source stores 0 in this column (an unused slot); since 30 Oct 2026 it is written n/a (code/fix-20261030_load1_padding_na.py)."
   },
   "timestamps_Encoding2_end": {
-    "Description": "Source NWB column copied verbatim. Source description: End times of picture #2 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+    "Description": "Source NWB column copied verbatim. Source description: End times of picture #2 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time). For load-1 trials the source stores 0 in this column (an unused slot); since 30 Oct 2026 it is written n/a (code/fix-20261030_load1_padding_na.py)."
   },
   "timestamps_Encoding3": {
-    "Description": "Source NWB column copied verbatim. Source description: Start times of picture #3 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+    "Description": "Source NWB column copied verbatim. Source description: Start times of picture #3 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time). For load-1 trials the source stores 0 in this column (an unused slot); since 30 Oct 2026 it is written n/a (code/fix-20261030_load1_padding_na.py)."
   },
   "timestamps_Encoding3_end": {
-    "Description": "Source NWB column copied verbatim. Source description: End times of picture #3 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
+    "Description": "Source NWB column copied verbatim. Source description: End times of picture #3 presentation. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time). For load-1 trials the source stores 0 in this column (an unused slot); since 30 Oct 2026 it is written n/a (code/fix-20261030_load1_padding_na.py)."
   },
   "timestamps_FixationCross": {
     "Description": "Source NWB column copied verbatim. Source description: Start times of fixation cross. Times are absolute NWB session-clock seconds (subtract the LFP starting_time to get recording time)."
