@@ -181,3 +181,17 @@ Provenance of the 2026-10-07 metadata enrichment
 ------------------------------------------------
 Daume et al. 2024 Methods and Supplementary Information (Supplementary Table S5); the release itself
 (channels.tsv, scans.tsv).
+
+Picture presentations with stimulus_index 0 (2026-11-02)
+--------------------------------------------------------
+6,006 of the 24,028 picture presentations (see Contents) are stimulus_presentation rows with stimulus_index 0.
+They mark no picture onset: the source StimulusPresentation series fills the two unused picture slots of each
+load-1 trial with stimulus index 0, which is StimulusTemplates image_999 in all 44 NWB files (no PicIDs_* value
+is 999). The NWB files hold the same number of index-0 entries as the rows here.
+  - Count: exactly 2 per load-1 trial and none elsewhere, in all 43 sessions: 140 rows per session (70 load-1
+    trials), except sub-22 ses-1 with 126 (63 load-1 trials).
+  - Timing: 10 ms and 20 ms after the trial's picture-1 row, 0.93-1.38 s after trial start, inside the picture-1
+    interval (timestamps_Encoding1 to timestamps_Encoding1_end). No TTL marker lies at their times, and load-1
+    trials have no TTL 2 or 3.
+The rows are kept as released. To keep only presented pictures, drop stimulus_presentation rows with
+stimulus_index 0 (18,022 rows remain). Per-session table: code/receipts/2026-11-02_stimulus-index-zero.md.

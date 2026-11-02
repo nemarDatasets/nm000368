@@ -1,3 +1,8 @@
+1.0.3 2026-11-02
+  - Document the 6,006 stimulus_presentation rows with stimulus_index 0 (2 per load-1 trial, filling the unused
+    picture slots): new README section and stimulus_index description in events.json; rows unchanged. Receipt:
+    code/receipts/2026-11-02_stimulus-index-zero.md/.py.
+
 1.0.2 2026-10-16
   - Restore the descriptive dataset Name recorded in the v1.0.0 history. Update generated metadata title and source hash.
 
