@@ -1,6 +1,11 @@
 1.0.3 2026-10-30
 
-  - Set unused picture slots of load-1 trials to n/a
+  - events.tsv (43 files): the placeholder 0 in the unused picture slots of the 3003 load-1 trials
+    (PicIDs_Encoding2/3, timestamps_Encoding2/3 and their _end columns) is written n/a; events.json column
+    descriptions say so.
+  - README: the published text is kept unchanged; paragraphs added after it explain the n/a slots and the vmPFC
+    hemisphere caveat (location label vs sign of x).
+  - code/fix-20261030_load1_padding_na.py: the conversion script.
 
 1.0.2 2026-10-16
   - Restore the descriptive dataset Name recorded in the v1.0.0 history. Update generated metadata title and source hash.
