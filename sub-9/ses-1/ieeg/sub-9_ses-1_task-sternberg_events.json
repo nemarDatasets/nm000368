@@ -23,7 +23,7 @@
     "Description": "TTL code. Source description: The events coorespond to the TTL markers for each trial. The TTL markers are the following: 61 = Start of Experiment, 11 = Fixation Cross, 1 = Picture #1 Shown, 2 = Picture #2 Shown, 3 = Picture #3 Shown, 5 = Transition between each picture presentation, 6 = End of Encoding Sequence / Start of Maintenance Period, 7 = Probe Stimulus, 8 = Subject Response, 60 = End of Experiment"
   },
   "stimulus_index": {
-    "Description": "Index into the source StimulusTemplates image list (images not distributed here)."
+    "Description": "Index into the source StimulusTemplates image list (images not distributed here). 0 is template image_999, which fills the 2 unused picture slots of each load-1 trial (10 and 20 ms after picture 1) and marks no picture onset (see README)."
   },
   "source_table": {
     "Description": "NWB TimeIntervals table the row comes from."
