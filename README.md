@@ -93,9 +93,6 @@ onset = NWB time - LFP starting_time (all NWB times share the session clock). Be
                          response_accuracy and the absolute NWB times timestamps_FixationCross,
                          timestamps_Encoding1/2/3(_end), timestamps_Maintenance, timestamps_Probe,
                          timestamps_Response.
-                         Load-1 trials have no 2nd/3rd picture; the source stores 0 in PicIDs_Encoding2/3 and
-                         timestamps_Encoding2/3(_end) of all 3003 load-1 trials (never in load-3 trials). Since
-                         30 Oct 2026 these empty slots are written n/a (code/fix-20261030_load1_padding_na.py).
   ttl                    every TTL marker (acquisition/events): 61 start of experiment, 11 fixation cross,
                          1/2/3 picture 1/2/3 shown, 5 transition between pictures, 6 end of encoding / start
                          of maintenance, 7 probe, 8 response, 60 end of experiment (NWB description).
@@ -103,6 +100,12 @@ onset = NWB time - LFP starting_time (all NWB times share the session clock). Be
                          stimulus_index indexes the source StimulusTemplates (not distributed, see above).
 NWB column descriptions are copied into events.json. Times inside source columns are absolute NWB session
 times (subtract source_lfp_starting_time_s in scans.tsv to get recording time).
+
+Updated in version 1.0.3 by the depositors of this NEMAR copy (the published text above is kept unchanged; this note extends the `sternberg_trial` entry):
+
+Load-1 trials have no 2nd/3rd picture; the source stores 0 in PicIDs_Encoding2/3 and timestamps_Encoding2/3(_end)
+of all 3003 load-1 trials (never in load-3 trials). Since 30 Oct 2026 these empty slots are written n/a
+(code/fix-20261030_load1_padding_na.py).
 
 Coordinates
 -----------
