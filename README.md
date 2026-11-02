@@ -101,12 +101,26 @@ onset = NWB time - LFP starting_time (all NWB times share the session clock). Be
 NWB column descriptions are copied into events.json. Times inside source columns are absolute NWB session
 times (subtract source_lfp_starting_time_s in scans.tsv to get recording time).
 
+Updated in version 1.0.3 by the depositors of this NEMAR copy (the published text above is kept unchanged; this note extends the `sternberg_trial` entry):
+
+Load-1 trials have no 2nd/3rd picture; the source stores 0 in PicIDs_Encoding2/3 and timestamps_Encoding2/3(_end)
+of all 3003 load-1 trials (never in load-3 trials). Since 30 Oct 2026 these empty slots are written n/a
+(code/fix-20261030_load1_padding_na.py).
+
 Coordinates
 -----------
 electrodes.tsv gives the x, y, z of the NWB electrodes table in mm (one location per bundle). The article
 plots electrode positions "on the CITI168 Atlas Brain in MNI152 coordinates for the sole purpose of
 visualization" and notes that template coordinates can fall into white matter; coordsystem.json therefore
 uses "Other" with that description.
+
+Hemisphere of the vmPFC bundles: the `location` labels (from the NWB electrodes table) and the sign of x disagree
+for the ventromedial prefrontal bundles. Counting one row per bundle and session, 43 of 44 vmPFC bundles labelled
+`_left` or `_right` lie on the opposite side of the midline (|x| 1.0-11.0 mm), while hippocampus (85) and amygdala
+(64) bundles all agree; 2 other bundles (1 dACC, 1 pre-SMA) disagree within 1.3 mm of the midline. The release does
+not say whether the vmPFC labels or the template x are mirrored, and the article plots template positions for
+visualization only; both are kept as released. Do not infer vmPFC hemisphere from x (or from the label) without
+checking.
 
 Participants
 ------------
